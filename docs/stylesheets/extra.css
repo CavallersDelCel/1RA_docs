@@ -1,0 +1,303 @@
+/*
+@font-face {
+    font-family: "Linux Biolinum Keyboard";
+    src: url(../fonts/LinBiolinum_Kah.ttf);
+}
+
+.keys {
+  font-family: "Linux Biolinum Keyboard", sans-serif;
+}
+*/
+
+/* ------------------ Capçaleres, diferents gruixos ------------------ */
+
+.md-typeset h1 {
+    font-weight: 700;
+}
+
+.md-typeset h2 {
+    font-weight: 700;
+}
+
+.md-typeset h3 {
+    font-weight: 700;
+}
+
+/* ------------------ Colors de notes ------------------ */
+
+/* ------------------ Generic ------------------ */
+
+.md-typeset .admonition, .md-typeset details {
+	border-left: .0rem solid;
+}
+
+.md-typeset blockquote, .md-typeset ol, .md-typeset p, .md-typeset ul {
+	font-size: 1.58rem;
+}
+
+
+/* ------------------ topic/note ------------------ */
+
+.md-typeset .admonition > .admonition-title::before, .md-typeset .admonition > summary::before, .md-typeset details > .admonition-title::before, .md-typeset details > summary::before {
+	color: #fff;
+}
+
+.md-typeset .admonition, .md-typeset details {
+	border-left-color: #de5a4e;
+	background-color: #e7f2fa;
+}
+
+.md-typeset .admonition > .admonition-title, .md-typeset .admonition > summary, .md-typeset details > .admonition-title, .md-typeset details > summary {
+	background-color: #6ab0de;
+	font-size: 1.58rem;
+	color: #fff;
+}
+
+
+
+/* ------------------ danger/error ------------------ */
+
+.md-typeset .admonition.danger > .admonition-title::before, .md-typeset .admonition.danger > summary::before, .md-typeset .admonition.error > .admonition-title::before, .md-typeset .admonition.error > summary::before, .md-typeset details.danger > .admonition-title::before, .md-typeset details.danger > summary::before, .md-typeset details.error > .admonition-title::before, .md-typeset details.error > summary::before {
+	color: #fff;
+}
+
+.md-typeset .admonition.danger,.md-typeset .admonition.error,.md-typeset details.danger,.md-typeset details.error {
+	border-left-color: #de5a4e;
+	background-color: #fdf3f2;
+}
+
+.md-typeset .admonition.danger>.admonition-title,.md-typeset .admonition.danger>summary,.md-typeset .admonition.error>.admonition-title,.md-typeset .admonition.error>summary,.md-typeset details.danger>.admonition-title,.md-typeset details.danger>summary,.md-typeset details.error>.admonition-title,.md-typeset details.error>summary {
+	background-color: #f29f97;
+	font-size: 1.58rem;
+	color: #fff;
+}
+
+/* ------------------ caution/attention/warning ------------------ */
+
+.md-typeset .admonition.attention > .admonition-title::before, .md-typeset .admonition.attention > summary::before, .md-typeset .admonition.caution > .admonition-title::before, .md-typeset .admonition.caution > summary::before, .md-typeset .admonition.warning > .admonition-title::before, .md-typeset .admonition.warning > summary::before, .md-typeset details.attention > .admonition-title::before, .md-typeset details.attention > summary::before, .md-typeset details.caution > .admonition-title::before, .md-typeset details.caution > summary::before, .md-typeset details.warning > .admonition-title::before, .md-typeset details.warning > summary::before {
+	color: #fff;
+}
+
+.md-typeset .admonition.attention, .md-typeset .admonition.caution, .md-typeset .admonition.warning, .md-typeset details.attention, .md-typeset details.caution, .md-typeset details.warning {
+	border-left-color: #de5a4e;
+	background-color: #ffedcc;
+}
+
+.md-typeset .admonition.attention > .admonition-title, .md-typeset .admonition.attention > summary, .md-typeset .admonition.caution > .admonition-title, .md-typeset .admonition.caution > summary, .md-typeset .admonition.warning > .admonition-title, .md-typeset .admonition.warning > summary, .md-typeset details.attention > .admonition-title, .md-typeset details.attention > summary, .md-typeset details.caution > .admonition-title, .md-typeset details.caution > summary, .md-typeset details.warning > .admonition-title, .md-typeset details.warning > summary {
+	background-color: #f0b37e;
+	font-size: 1.58rem;
+	color: #fff;
+}
+
+/* ------------------ tip/hint/important ------------------ */
+
+.md-typeset .admonition.hint > .admonition-title::before, .md-typeset .admonition.hint > summary::before, .md-typeset .admonition.important > .admonition-title::before, .md-typeset .admonition.important > summary::before, .md-typeset .admonition.tip > .admonition-title::before, .md-typeset .admonition.tip > summary::before, .md-typeset details.hint > .admonition-title::before, .md-typeset details.hint > summary::before, .md-typeset details.important > .admonition-title::before, .md-typeset details.important > summary::before, .md-typeset details.tip > .admonition-title::before, .md-typeset details.tip > summary::before {
+	color: #fff;
+}
+
+.md-typeset .admonition.hint, .md-typeset .admonition.important, .md-typeset .admonition.tip, .md-typeset details.hint, .md-typeset details.important, .md-typeset details.tip {
+	border-left-color: #de5a4e;
+	background-color: #dbfaf4;
+}
+
+.md-typeset .admonition.hint > .admonition-title, .md-typeset .admonition.hint > summary, .md-typeset .admonition.important > .admonition-title, .md-typeset .admonition.important > summary, .md-typeset .admonition.tip > .admonition-title, .md-typeset .admonition.tip > summary, .md-typeset details.hint > .admonition-title, .md-typeset details.hint > summary, .md-typeset details.important > .admonition-title, .md-typeset details.important > summary, .md-typeset details.tip > .admonition-title, .md-typeset details.tip > summary {
+	background-color: #1abc9c;
+	font-size: 1.58rem;
+	color: #fff;
+}
+
+/* ------------------ info/todo ------------------ */
+
+.md-typeset .admonition.info > .admonition-title::before, .md-typeset .admonition.info > summary::before, .md-typeset .admonition.todo > .admonition-title::before, .md-typeset .admonition.todo > summary::before, .md-typeset details.info > .admonition-title::before, .md-typeset details.info > summary::before, .md-typeset details.todo > .admonition-title::before, .md-typeset details.todo > summary::before {
+	color: #fff;
+}
+
+.md-typeset .admonition.info, .md-typeset .admonition.todo, .md-typeset details.info, .md-typeset details.todo {
+	border-left-color: #de5a4e;
+	background-color: #bcebf3;
+}
+
+.md-typeset .admonition.info > .admonition-title, .md-typeset .admonition.info > summary, .md-typeset .admonition.todo > .admonition-title, .md-typeset .admonition.todo > summary, .md-typeset details.info > .admonition-title, .md-typeset details.info > summary, .md-typeset details.todo > .admonition-title, .md-typeset details.todo > summary {
+	background-color: #57c0d1;
+	font-size: 1.58rem;
+	color: #fff;
+}
+
+
+/* ------------------ abstract/summary/tldr ------------------ */
+
+.md-typeset .admonition.abstract > .admonition-title::before, .md-typeset .admonition.abstract > summary::before, .md-typeset .admonition.summary > .admonition-title::before, .md-typeset .admonition.summary > summary::before, .md-typeset .admonition.tldr > .admonition-title::before, .md-typeset .admonition.tldr > summary::before, .md-typeset details.abstract > .admonition-title::before, .md-typeset details.abstract > summary::before, .md-typeset details.summary > .admonition-title::before, .md-typeset details.summary > summary::before, .md-typeset details.tldr > .admonition-title::before, .md-typeset details.tldr > summary::before {
+	color: #fff;
+}
+
+.md-typeset .admonition.abstract, .md-typeset .admonition.summary, .md-typeset .admonition.tldr, .md-typeset details.abstract, .md-typeset details.summary, .md-typeset details.tldr {
+	border-left-color: #ebf3f2;
+	background-color: #ebf3f2;
+}
+
+.md-typeset .admonition.abstract > .admonition-title, .md-typeset .admonition.abstract > summary, .md-typeset .admonition.summary > .admonition-title, .md-typeset .admonition.summary > summary, .md-typeset .admonition.tldr > .admonition-title, .md-typeset .admonition.tldr > summary, .md-typeset details.abstract > .admonition-title, .md-typeset details.abstract > summary, .md-typeset details.summary > .admonition-title, .md-typeset details.summary > summary, .md-typeset details.tldr > .admonition-title, .md-typeset details.tldr > summary {
+	background-color: #38befb;
+	font-size: 1.58rem;
+	color: #fff;
+}
+
+/* ------------------ success/check/done ------------------ */
+
+.md-typeset .admonition.check > .admonition-title::before, .md-typeset .admonition.check > summary::before, .md-typeset .admonition.done > .admonition-title::before, .md-typeset .admonition.done > summary::before, .md-typeset .admonition.success > .admonition-title::before, .md-typeset .admonition.success > summary::before, .md-typeset details.check > .admonition-title::before, .md-typeset details.check > summary::before, .md-typeset details.done > .admonition-title::before, .md-typeset details.done > summary::before, .md-typeset details.success > .admonition-title::before, .md-typeset details.success > summary::before {
+	color: #fff;
+}
+
+.md-typeset .admonition.check, .md-typeset .admonition.done, .md-typeset .admonition.success, .md-typeset details.check, .md-typeset details.done, .md-typeset details.success {
+	border-left-color: #ebf3f2;
+	background-color: #6fda8333;
+}
+
+.md-typeset .admonition.check > .admonition-title, .md-typeset .admonition.check > summary, .md-typeset .admonition.done > .admonition-title, .md-typeset .admonition.done > summary, .md-typeset .admonition.success > .admonition-title, .md-typeset .admonition.success > summary, .md-typeset details.check > .admonition-title, .md-typeset details.check > summary, .md-typeset details.done > .admonition-title, .md-typeset details.done > summary, .md-typeset details.success > .admonition-title, .md-typeset details.success > summary {
+	background-color: #41bd58cc;
+	font-size: 1.58rem;
+	color: #fff;
+}
+
+
+/* ------------------ question/help/faq ------------------ */
+
+.md-typeset .admonition.faq > .admonition-title::before, .md-typeset .admonition.faq > summary::before, .md-typeset .admonition.help > .admonition-title::before, .md-typeset .admonition.help > summary::before, .md-typeset .admonition.question > .admonition-title::before, .md-typeset .admonition.question > summary::before, .md-typeset details.faq > .admonition-title::before, .md-typeset details.faq > summary::before, .md-typeset details.help > .admonition-title::before, .md-typeset details.help > summary::before, .md-typeset details.question > .admonition-title::before, .md-typeset details.question > summary::before {
+	color: #fff;
+}
+
+.md-typeset .admonition.faq, .md-typeset .admonition.help, .md-typeset .admonition.question, .md-typeset details.faq, .md-typeset details.help, .md-typeset details.question {
+	border-left-color: #ebf3f2;
+	background-color: #e4e92633;
+}
+
+.md-typeset .admonition.faq > .admonition-title, .md-typeset .admonition.faq > summary, .md-typeset .admonition.help > .admonition-title, .md-typeset .admonition.help > summary, .md-typeset .admonition.question > .admonition-title, .md-typeset .admonition.question > summary, .md-typeset details.faq > .admonition-title, .md-typeset details.faq > summary, .md-typeset details.help > .admonition-title, .md-typeset details.help > summary, .md-typeset details.question > .admonition-title, .md-typeset details.question > summary {
+	background-color: #c3ae0fcc;
+	font-size: 1.58rem;
+	color: #fff;
+}
+
+/* ------------------ failure/fail/missing ------------------ */
+
+.md-typeset .admonition.fail > .admonition-title::before, .md-typeset .admonition.fail > summary::before, .md-typeset .admonition.failure > .admonition-title::before, .md-typeset .admonition.failure > summary::before, .md-typeset .admonition.missing > .admonition-title::before, .md-typeset .admonition.missing > summary::before, .md-typeset details.fail > .admonition-title::before, .md-typeset details.fail > summary::before, .md-typeset details.failure > .admonition-title::before, .md-typeset details.failure > summary::before, .md-typeset details.missing > .admonition-title::before, .md-typeset details.missing > summary::before {
+	color: #fff;
+}
+
+.md-typeset .admonition.fail, .md-typeset .admonition.failure, .md-typeset .admonition.missing, .md-typeset details.fail, .md-typeset details.failure, .md-typeset details.missing {
+	border-left-color: #ebf3f2;
+	background-color: #ff84841a;
+}
+
+.md-typeset .admonition.fail > .admonition-title, .md-typeset .admonition.fail > summary, .md-typeset .admonition.failure > .admonition-title, .md-typeset .admonition.failure > summary, .md-typeset .admonition.missing > .admonition-title, .md-typeset .admonition.missing > summary, .md-typeset details.fail > .admonition-title, .md-typeset details.fail > summary, .md-typeset details.failure > .admonition-title, .md-typeset details.failure > summary, .md-typeset details.missing > .admonition-title, .md-typeset details.missing > summary {
+	background-color: #ff5252cc;
+	font-size: 1.58rem;
+	color: #fff;
+}
+
+
+/* ------------------ bug ------------------ */
+
+.md-typeset .admonition.bug > .admonition-title::before, .md-typeset .admonition.bug > summary::before, .md-typeset details.bug > .admonition-title::before, .md-typeset details.bug > summary::before {
+	color: #fff;
+}
+
+.md-typeset .admonition.bug, .md-typeset details.bug {
+	border-left-color: #ebf3f2;
+	background-color: #c36d3633;
+}
+
+.md-typeset .admonition.bug > .admonition-title, .md-typeset .admonition.bug > summary, .md-typeset details.bug > .admonition-title, .md-typeset details.bug > summary {
+	background-color: #c36d36cc;
+	font-size: 1.58rem;
+	color: #fff;
+}
+
+
+/* ------------------ example ------------------ */
+
+.md-typeset .admonition.example > .admonition-title::before, .md-typeset .admonition.example > summary::before, .md-typeset details.example > .admonition-title::before, .md-typeset details.example > summary::before {
+	color: #fff;
+}
+
+.md-typeset .admonition.example, .md-typeset details.example {
+	border-left-color: #ebf3f2;
+	background-color: #ba8fe31a;
+}
+
+.md-typeset .admonition.example > .admonition-title, .md-typeset .admonition.example > summary, .md-typeset details.example > .admonition-title, .md-typeset details.example > summary {
+	background-color: #a669e099;
+	font-size: 1.58rem;
+	color: #fff;
+}
+
+/* ------------------ quote/cite ------------------ */
+
+.md-typeset .admonition.cite > .admonition-title::before, .md-typeset .admonition.cite > summary::before, .md-typeset .admonition.quote > .admonition-title::before, .md-typeset .admonition.quote > summary::before, .md-typeset details.cite > .admonition-title::before, .md-typeset details.cite > summary::before, .md-typeset details.quote > .admonition-title::before, .md-typeset details.quote > summary::before {
+	color: #fff;
+}
+
+.md-typeset .admonition.cite, .md-typeset .admonition.quote, .md-typeset details.cite, .md-typeset details.quote {
+	border-left-color: #9e9e9e;
+	background-color: #9e9e9e33;
+}
+
+.md-typeset .admonition.cite > .admonition-title, .md-typeset .admonition.cite > summary, .md-typeset .admonition.quote > .admonition-title, .md-typeset .admonition.quote > summary, .md-typeset details.cite > .admonition-title, .md-typeset details.cite > summary, .md-typeset details.quote > .admonition-title, .md-typeset details.quote > summary {
+	background-color: #9e9e9e;
+	font-size: 1.58rem;
+	color: #fff;
+}
+
+/* ------------------ Centrat de imatges ------------------ */
+
+.center {
+    display: block;
+    margin: 0 auto;
+}
+
+.right {
+    float: right;
+	margin-left: 20px;
+}
+
+.left {
+    float: left;
+	margin-right: 20px;
+}
+
+/*
+img[src*="#center"] {
+    display: block;
+    margin: 0 auto;
+}
+img[src*="#right"] {
+    float: right;
+	margin-left: 10px;
+}
+img[src*="#left"] {
+    float: left;
+	margin-right: 10px;
+}
+*/
+
+/* ------------------ Tecles de teclat, no cal ja ------------------ */
+
+/*
+kbd
+{
+  -moz-border-radius:3px;
+  -moz-box-shadow:0 1px 0 rgba(0,0,0,0.2),0 0 0 2px #fff inset;
+  -webkit-border-radius:3px;
+  -webkit-box-shadow:0 1px 0 rgba(0,0,0,0.2),0 0 0 2px #fff inset;
+  background-color:#f7f7f7;
+  border:1px solid #ccc;
+  border-radius:3px;
+  box-shadow:0 1px 0 rgba(0,0,0,0.2),0 0 0 2px #fff inset;
+  color:#333;
+  display:inline-block;
+  font-family:Arial,Helvetica,sans-serif;
+  font-size:11px;
+  line-height:1.4;
+  margin:0 .1em;
+  padding:.1em .6em;
+  text-shadow:0 1px 0 #fff;
+}
+*/

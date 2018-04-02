@@ -1,0 +1,143 @@
+# Copyright (c) 2016-2018 Martin Donath <martin.donath@squidfunk.com>
+
+# Permission is hereby granted, free of charge, to any person obtaining a copy
+# of this software and associated documentation files (the "Software"), to
+# deal in the Software without restriction, including without limitation the
+# rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
+# sell copies of the Software, and to permit persons to whom the Software is
+# furnished to do so, subject to the following conditions:
+
+# The above copyright notice and this permission notice shall be included in
+# all copies or substantial portions of the Software.
+
+# THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+# IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+# FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
+# AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+# LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+# FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+# IN THE SOFTWARE.
+
+# Project information
+site_name: 1RA - Entrenament Bàsic de Combat
+site_description: Manual d'Entrenament Bàsic de Combat del 1er Regiment Aerotransportat
+site_author: Viper
+site_url: http://arma.cavallersdelcel.cat
+
+# Repository
+repo_name: CavallersDelCel/1RA_EBC
+repo_url: https://github.com/CavallersDelCel/1RA_docs
+edit_uri: "https://github.com/CavallersDelCel/1RA_docs/tree/master/docs"
+
+# Copyright
+copyright: 'Copyright &copy; 2010 - 2018 Cavallers del Cel'
+
+# Configuration
+theme:
+  name: null
+  custom_dir: material
+
+  # 404 page
+  static_templates:
+    - 404.html
+
+  # Don't include MkDocs' JavaScript
+  include_search_page: false
+  search_index_only: true
+
+  # Default values, taken from mkdocs_theme.yml
+  language: ca
+  feature:
+    tabs: false
+  palette:
+    primary: Brown
+    accent: Deep Orange
+  font:
+    text: Roboto
+    code: Roboto Mono
+  favicon: _imatges/favicon.ico
+  logo:
+    icon: "\uE80C"
+
+# Customization
+extra:
+  social:
+    - type: globe
+      link: http://cavallersdelcel.cat
+    - type: github-alt
+      link: https://github.com/CavallersDelCel
+    - type: youtube
+      link: http://www.youtube.com/user/cavallersdelcel
+    - type: twitter
+      link: http://twitter.com/CavallersdelCel
+    - type: facebook
+      link: http://www.facebook.com/cavallersdelcel
+ 
+extra_css:
+    - 'stylesheets/extra.css'
+
+# Extensions
+markdown_extensions:
+  - markdown.extensions.admonition
+  - markdown.extensions.attr_list
+  - markdown.extensions.codehilite:
+      guess_lang: false
+  - markdown.extensions.def_list
+  - markdown.extensions.footnotes
+  - markdown.extensions.meta
+  - markdown.extensions.toc:
+      permalink: true
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+# Page tree
+pages:
+- Introducció: 'index.md'
+- Fase1 - Groga:
+    - 'Benvinguda': 'fase1/benvinguda.md'
+    - 'Simulador': 'fase1/simulador.md'
+- Fase2 - Vermella:
+    - 'Balística i fonaments de la punteria amb fusell': 'fase2/punteria1.md'
+    - 'Regles de combat': 'fase2/rdc.md'
+    - 'Navegació terrestre desmuntada': 'fase2/navegacio.md'
+    - 'Camuflatge i ocultació': 'fase2/camuflatge.md'
+    - 'Patrulla i formacions': 'fase2/patrulla.md'
+- Fase3 - Blanca:
+    - 'Fonaments de la punteria amb fusell reforçats': 'fase3/punteria2.md'
+    - 'Prioritzar i atacar objectius a diferents distàncies': 'fase3/prioritzar.md'
+- Fase4 - Blava:
+    - 'Comunicacions': 'fase4/comunicacions.md'
+    - 'Punteria avançada amb fusell': 'fase4/punteria3.md'
+    - 'Maniobrar i atacar objectius com a part d’una esquadra': 'fase4/maniobrar.md'
+    - 'Granades de fragmentació M67 i de fum M18': 'fase4/granades.md'
+    - 'Emprar armes mes potents i de tripulació': 'fase4/armes_tripulacio.md'
+    - 'Metralladora M240B': 'fase4/metralladores.md'
+    - 'Fusell automàtic M249': 'fase4/fusell_auto.md'
+    - 'Llançador antitanc AT4': 'fase4/antitanc.md'
+    - 'Llançagranades de 40mm M203': 'fase4/llan_granades.md'
+    - 'Operacions militars a terreny urbà (MOUT - Military Operations in Urban Terrain)': 'fase4/mout.md'
+    - 'Defensa del comboi': 'fase4/comboi.md'
+- Notes finals:
+    - 'Protocol operatiu de comunicació "POC"': 'notes/poc.md'
+    - 'Bibliografia': 'notes/bibliografia.md'
+    - 'Crèdits': 'notes/credits.md'
+
+# Google Analytics
+google_analytics:
+  - !!python/object/apply:os.getenv ["GOOGLE_ANALYTICS_KEY"]
+  - auto
