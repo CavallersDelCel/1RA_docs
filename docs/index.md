@@ -10,7 +10,7 @@ Si voleu contactar amb nosaltres ho podeu fer:
 
   - Al nostre web [cavallersdelcel.cat](http://www.cavallersdelcel.cat)
   - Al [fòrum del grup 1RA](http://www.cavallersdelcel.cat/forums/viewforum.php?f=26)
-  - A nostre servidor de [Discord](https://discord.gg/4RGJdTv)
+  - Al nostre servidor de [Discord](https://discord.gg/4RGJdTv)
 
 ## **Sobre el manual del EBC**
 
