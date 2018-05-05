@@ -67,6 +67,9 @@ Per posar tecla personalitzada, entre cometes:
 !!! seealso "Veure també"
 	Si escriure entre cometes pots canviar el nom de la nota `!!! note "Nota important"`
 
+!!! note ""
+	Eliminar el titol.
+
 !!! note
 	Nota
 

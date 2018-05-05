@@ -19,8 +19,8 @@
 # IN THE SOFTWARE.
 
 # Project information
-site_name: 1RA - Entrenament Bàsic de Combat
-site_description: Manual d'Entrenament Bàsic de Combat del 1er Regiment Aerotransportat
+site_name: Documentació del 1er Regiment Aerotransportat
+site_description: Documentació del grup 1RA a la Comunitat Catalana de Simulació, Cavallers del Cel
 site_author: Viper
 site_url: http://arma.cavallersdelcel.cat
 
@@ -107,35 +107,38 @@ markdown_extensions:
 
 # Page tree
 pages:
-- Introducció: 'index.md'
-- Fase1 - Groga:
-    - 'Benvinguda': 'fase1/benvinguda.md'
-    - 'Simulador': 'fase1/simulador.md'
-- Fase2 - Vermella:
-    - 'Balística i fonaments de la punteria amb fusell': 'fase2/punteria1.md'
-    - 'Regles de combat': 'fase2/rdc.md'
-    - 'Navegació terrestre desmuntada': 'fase2/navegacio.md'
-    - 'Camuflatge i ocultació': 'fase2/camuflatge.md'
-    - 'Patrulla i formacions': 'fase2/patrulla.md'
-- Fase3 - Blanca:
-    - 'Fonaments de la punteria amb fusell reforçats': 'fase3/punteria2.md'
-    - 'Prioritzar i atacar objectius a diferents distàncies': 'fase3/prioritzar.md'
-- Fase4 - Blava:
-    - 'Comunicacions': 'fase4/comunicacions.md'
-    - 'Punteria avançada amb fusell': 'fase4/punteria3.md'
-    - 'Maniobrar i atacar objectius com a part d’una esquadra': 'fase4/maniobrar.md'
-    - 'Granades de fragmentació M67 i de fum M18': 'fase4/granades.md'
-    - 'Emprar armes mes potents i de tripulació': 'fase4/armes_tripulacio.md'
-    - 'Metralladora M240B': 'fase4/metralladores.md'
-    - 'Fusell automàtic M249': 'fase4/fusell_auto.md'
-    - 'Llançador antitanc AT4': 'fase4/antitanc.md'
-    - 'Llançagranades de 40mm M203': 'fase4/llan_granades.md'
-    - 'Operacions militars a terreny urbà (MOUT - Military Operations in Urban Terrain)': 'fase4/mout.md'
-    - 'Defensa del comboi': 'fase4/comboi.md'
-- Notes finals:
-    - 'Protocol operatiu de comunicació "POC"': 'notes/poc.md'
-    - 'Bibliografia': 'notes/bibliografia.md'
-    - 'Crèdits': 'notes/credits.md'
+- Benvinguts: 'index.md'
+- Entrenament Bàsic de Combat:
+    - 'Introducció': 'ebc/index.md'
+    - 'Fase1 - Groga': 
+        - 'Benvinguda': 'ebc/fase1/benvinguda.md'
+        - 'Simulador': 'ebc/fase1/simulador.md'
+    - 'Fase2 - Vermella':
+        - 'Balística i fonaments de la punteria amb fusell': 'ebc/fase2/punteria1.md'
+        - 'Regles de combat': 'ebc/fase2/rdc.md'
+        - 'Navegació terrestre desmuntada': 'ebc/fase2/navegacio.md'
+        - 'Camuflatge i ocultació': 'ebc/fase2/camuflatge.md'
+        - 'Patrulla i formacions': 'ebc/fase2/patrulla.md'
+    - 'Fase3 - Blanca':
+        - 'Fonaments de la punteria amb fusell reforçats': 'ebc/fase3/punteria2.md'
+        - 'Prioritzar i atacar objectius a diferents distàncies': 'ebc/fase3/prioritzar.md'
+    - 'Fase4 - Blava':
+        - 'Comunicacions': 'ebc/fase4/comunicacions.md'
+        - 'Punteria avançada amb fusell': 'ebc/fase4/punteria3.md'
+        - 'Maniobrar i atacar objectius com a part d’una esquadra': 'ebc/fase4/maniobrar.md'
+        - 'Granades de fragmentació M67 i de fum M18': 'ebc/fase4/granades.md'
+        - 'Emprar armes mes potents i de tripulació': 'ebc/fase4/armes_tripulacio.md'
+        - 'Metralladora M240B': 'ebc/fase4/metralladores.md'
+        - 'Fusell automàtic M249': 'ebc/fase4/fusell_auto.md'
+        - 'Llançador antitanc AT4': 'ebc/fase4/antitanc.md'
+        - 'Llançagranades de 40mm M203': 'ebc/fase4/llan_granades.md'
+        - 'Operacions militars a terreny urbà (MOUT - Military Operations in Urban Terrain)': 'ebc/fase4/mout.md'
+        - 'Defensa del comboi': 'ebc/fase4/comboi.md'
+    - 'Notes finals':
+        - 'Protocol operatiu de comunicació "POC"': 'ebc/notes/poc.md'
+        - 'Bibliografia': 'ebc/notes/bibliografia.md'
+        - 'Crèdits': 'ebc/notes/credits.md'
+
 
 # Google Analytics
 google_analytics:
