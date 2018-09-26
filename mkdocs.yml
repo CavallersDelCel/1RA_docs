@@ -19,7 +19,7 @@
 # IN THE SOFTWARE.
 
 # Project information
-site_name: Documentació del 1er Regiment Aerotransportat
+site_name: Documentació del 1er Regiment Amfibi
 site_description: Documentació del grup 1RA a la Comunitat Catalana de Simulació, Cavallers del Cel
 site_author: Viper
 site_url: http://arma.cavallersdelcel.cat
@@ -108,6 +108,16 @@ markdown_extensions:
 # Page tree
 pages:
 - Benvinguts: 'index.md'
+- Guia pel nous:
+    - 'Benvingut': 'gn/index.md'
+    - 'Simulador': 
+        - 'Configuració': 'gn/simulador/configuracio.md' 
+        - 'Squad XML': 'gn/simulador/squad.md'
+        - 'Dificultat': 'gn/simulador/dificultat.md'
+    - 'Estàndard': 
+        - 'Repositori': 'gn/estandard/repositori.md'
+    - 'Notes finals':
+        - 'Crèdits': 'gn/notes/credits.md'
 - Entrenament Bàsic de Combat:
     - 'Introducció': 'ebc/index.md'
     - 'Fase1 - Groga': 

@@ -1,6 +1,6 @@
 # **Sobre el manual del EBC**
 
-El manual s'ha dissenyat per aplicar-ho a l'acadèmia del 1er Regiment Aerotransportat. És un manual progressiu en aniràs aprenent en cada moment el material necessari per poder continuar amb els capítols següents.
+El manual s'ha dissenyat per aplicar-ho a l'acadèmia del 1er Regiment Amfibi. És un manual progressiu en aniràs aprenent en cada moment el material necessari per poder continuar amb els capítols següents.
 
 La informació que aquí es dona està adaptada al tipus de missions que solem fer, i a les característiques i limitacions del simulador.
 

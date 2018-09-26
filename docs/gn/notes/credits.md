@@ -4,6 +4,6 @@
 
 Un document creat per al 1er Regiment Amfibi de la Comunitat Catalana de Simulació, Cavallers del Cel.
 
-* **Autors:** Viper, ZeroQ, Frodo.
-* **Correcció:** Diplock
+* **Autors:** Viper
+* **Correcció:** Viper
 * **Data de creació:** 18/09/2014
