@@ -17,7 +17,7 @@ Si vols conèixer la resta de membres i consultar el teu historial de missions i
 
 ##Acadèmia
 
-Tenim una acadèmia activa on fem [cursos i classes](http://www.cavallersdelcel.cat/forums/threads/rangs-i-cursos.5202/) per millorar els nostres coneixements i les nostres habilitats al combat. Tenim cursos tant per novells com per veterans, no dubtis en[informar-ten](http://www.cavallersdelcel.cat/forums/forums/acad%C3%A8mia.61/). 
+Tenim una acadèmia activa on fem [cursos i classes](http://www.cavallersdelcel.cat/forums/threads/rangs-i-cursos.5202/) per millorar els nostres coneixements i les nostres habilitats al combat. Tenim cursos tant per novells com per veterans, no dubtis en [informar-ten](http://www.cavallersdelcel.cat/forums/forums/acad%C3%A8mia.61/). 
 
 ## Manuals
 
