@@ -1,3 +1,66 @@
+mkdocs-material-3.0.4 (2018-09-03)
+
+  * Updated Dutch translations
+  * Fixed #856: Removed preconnect meta tag if Google Fonts are disabled
+
+mkdocs-material-3.0.3 (2018-08-07)
+
+  * Fixed #841: Additional path levels for extra CSS and JS
+
+mkdocs-material-3.0.2 (2018-08-06)
+
+  * Fixed #839: Lunr.js stemmer imports incorrect
+
+mkdocs-material-3.0.1 (2018-08-05)
+
+  * Fixed #838: Search result links incorrect
+
+mkdocs-material-3.0.0 (2018-08-05)
+
+  * Upgraded MkDocs to 1.0
+  * Upgraded Python in official Docker image to 3.6
+  * Added Serbian and Serbo-Croatian translations
+
+mkdocs-material-2.9.4 (2018-07-29)
+
+  * Fixed build error after MkDocs upgrade
+
+mkdocs-material-2.9.3 (2018-07-29)
+
+  * Added link to home for logo in drawer
+  * Fixed dependency problems between MkDocs and Tornado
+
+mkdocs-material-2.9.2 (2018-06-29)
+
+  * Added Hindi and Czech translations
+
+mkdocs-material-2.9.1 (2018-06-18)
+
+  * Added support for different spellings for theme color
+  * Fixed #799: Added support for web font minification in production
+  * Fixed #800: Added .highlighttable as an alias for .codehilitetable
+
+mkdocs-material-2.9.0 (2018-06-13)
+
+  * Added support for theme color on Android
+  * Fixed #796: Rendering of nested tabbed code blocks
+
+mkdocs-material-2.8.0 (2018-06-10)
+
+  * Added support for grouping code blocks with tabs
+  * Added Material and FontAwesome icon fonts to distribution files (GDPR)
+  * Added note on compliance with GDPR
+  * Added Slovak translations
+  * Fixed #790: Prefixed id attributes with "__" to avoid name clashes
+
+mkdocs-material-2.7.3 (2018-04-26)
+
+  * Added Finnish translations
+
+mkdocs-material-2.7.2 (2018-04-09)
+
+  * Fixed rendering issue for details on Edge
+
 mkdocs-material-2.7.1 (2018-03-21)
 
   * Added Galician translations

@@ -23,6 +23,25 @@
 # Exit, if one command fails
 set -e
 
+# # Create directory for overrides, so we don't clutter up the base theme with
+# # our custom adjustments for our own hosted documentation
+# mkdir -p overrides
+# cat > overrides/main.html <<-EOM
+#   {% extends "base.html" %}
+#   {% block scripts %}
+#     {{ super() }}
+#     <script>
+#       (function(i,s,o,g,r,a,m){
+#         i["GinsengAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||
+#         []).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+#         m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;
+#         m.parentNode.insertBefore(a,m)
+#       })(window, document,
+#         "script", "https://ginseng.ai/analytics.js", "gx");
+#     </script>
+#   {% endblock %}
+# EOM
+
 # Deploy documentation to GitHub pages
 if [ "$TRAVIS_BRANCH" == "master" -a "$TRAVIS_PULL_REQUEST" == "false" ]; then
   REMOTE="https://${GH_TOKEN}@github.com/squidfunk/mkdocs-material"
@@ -30,39 +49,41 @@ if [ "$TRAVIS_BRANCH" == "master" -a "$TRAVIS_PULL_REQUEST" == "false" ]; then
   # Set configuration for repository and deploy documentation
   git config --global user.name "${GH_NAME}"
   git config --global user.email "${GH_EMAIL}"
-  git remote set-url origin $REMOTE
+  git remote set-url origin ${REMOTE}
+
+  # Install Material, so we can use it as a base template and add overrides
+  python setup.py install
+
+  # # Override theme configuration
+  # sed -i 's/name: null/name: material/g' mkdocs.yml
+  # sed -i 's/custom_dir: material/custom_dir: overrides/g' mkdocs.yml
+
+  # Build documentation with overrides and publish to GitHub pages
   mkdocs gh-deploy --force
+  mkdocs --version
 fi
 
+# Remove overrides directory so it won't get included in the image
+# rm -rf overrides
+
 # Terminate if we're not on a release branch
-echo "$TRAVIS_BRANCH" | grep -qvE "^[0-9.]+$" && exit 0; :;
+echo "${TRAVIS_BRANCH}" | grep -qvE "^[0-9.]+$" && exit 0; :;
 
 # Install dependencies for release build
-pip install --user wheel twine
-
-# Fix SSL warnings for Python < 2.7.9
-# https://urllib3.readthedocs.io/en/latest/user-guide.html#ssl-py2
-pip install --user urllib3[secure]
+pip install wheel twine
 
 # Build and install theme and Docker image
 python setup.py build sdist bdist_wheel --universal
-docker build -t $TRAVIS_REPO_SLUG .
-
-# Prepare build regression test
-pushd /tmp
-mkdocs new test && cd test
+docker build -t ${TRAVIS_REPO_SLUG} .
 
 # Test Docker image build
-docker run --rm -it -v $(pwd):/docs $TRAVIS_REPO_SLUG build --theme material
-
-# Return to original directory
-popd
+docker run --rm -it -v $(pwd):/docs ${TRAVIS_REPO_SLUG} build --theme material
 
 # Push release to PyPI
-twine upload -u $PYPI_USERNAME -p $PYPI_PASSWORD dist/*
+twine upload -u ${PYPI_USERNAME} -p ${PYPI_PASSWORD} dist/*
 
 # Push image to Docker Hub
-docker login -u $DOCKER_USERNAME -p $DOCKER_PASSWORD
-docker tag $TRAVIS_REPO_SLUG $TRAVIS_REPO_SLUG:$TRAVIS_BRANCH
-docker tag $TRAVIS_REPO_SLUG $TRAVIS_REPO_SLUG:latest
-docker push $TRAVIS_REPO_SLUG
+docker login -u ${DOCKER_USERNAME} -p ${DOCKER_PASSWORD}
+docker tag ${TRAVIS_REPO_SLUG} ${TRAVIS_REPO_SLUG}:${TRAVIS_BRANCH}
+docker tag ${TRAVIS_REPO_SLUG} ${TRAVIS_REPO_SLUG}:latest
+docker push ${TRAVIS_REPO_SLUG}
