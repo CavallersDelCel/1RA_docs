@@ -148,6 +148,34 @@ nav:
         - 'Protocol operatiu de comunicació "POC"': 'ebc/notes/poc.md'
         - 'Bibliografia': 'ebc/notes/bibliografia.md'
         - 'Crèdits': 'ebc/notes/credits.md'
+- Curs d'Especialització en Franctirador:
+    - 'Sobre el manual': 'cef/index.md'
+    - 'Inici': 
+        - 'Introducció': 'cef/inici/introduccio.md'
+        - 'Tipus de tiradors': 'cef/inici/tipus.md'
+        - 'El binomi de franctiradors': 'cef/inici/binomi.md'
+    - 'Doctrina i Armament': 
+        - 'Doctrina, moviment i camuflatge': 'cef/doctrina_i_armament/doctrina.md'
+        - 'Armament': 'cef/doctrina_i_armament/armament.md'
+    - 'Balística i Mires':
+        - 'Balística avançada': 'cef/balistica/balistica.md'
+        - 'Mires telescòpiques i zeroing': 'cef/balistica/mires.md'
+    - 'Eines':
+        - 'Taula de rangs': 'cef/eines/taularangs.md'
+        - 'Telèmetre Vector 21': 'cef/eines/vector.md'
+        - 'Kestrel 4500': 'cef/eines/kestrel.md'
+        - 'Horus ATragMX': 'cef/eines/atragmx.md'
+    - 'Mètodes':
+        - 'Mètodes de tir': 'cef/metodes/metodestir.md'
+    - 'Annexes':
+        - 'ANNEX 1: Telescòpi portàtil': 'cef/annexes/annex1.md'
+        - 'ANNEX 2: Tripode SSWT': 'cef/annexes/annex2.md'
+        - 'ANNEX 3: Funda del fusell': 'cef/annexes/annex3.md'
+        - 'ANNEX 4: Escala de Beaufort': 'cef/annexes/annex4.md'
+        - 'ANNEX 5: Equipacions': 'cef/annexes/annex5.md'
+    - 'Notes finals':
+        - 'Bibliografia': 'cef/notes/bibliografia.md'
+        - 'Crèdits': 'cef/notes/credits.md'
 
 
 # Google Analytics
