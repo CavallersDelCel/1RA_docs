@@ -85,13 +85,13 @@ També cal indicar que tot i que hi ha mètodes per encertar blancs en moviment 
 
 Per a calibrar la mira telescòpica tenim els dos dials, el superior i el lateral. El dial superior calibra l'elevació vertical, mentres que el lateral calibra la desviació horitzontal. 
 
-Per a moure el dial superior, que es el que més utilitzarem a la pràctica, utilitzem les tecles Re Pag i Av Pag. Cada **click** que fem equivaldrà a 0.1 mils, també podem utilitzar ++shift+re pag++ o ++shift+av pag++ per avançar 1 mil de cop. Es important destacar que per a compensar una caiguda de bala que s'expressa en mils negatius, a la mira ho hem de fer amb mils positius tal com hem comentat anteriorment i no s'ha de confondre. Si intentem calibrar l'elevació de forma negativa veurem que apareix una "D" al costat, aquesta "D" ens indica que estem forçant la caiguda de bala (drop) en la mira directament (no es recomanable calibrar en negatiu tret d'algun cas concret, com trets a molta curta distància o amb caiguda positiva degut al vent o fenòmens externs).
+Per a moure el dial superior, que es el que més utilitzarem a la pràctica, utilitzem les tecles ++page-down++ i ++page-up++. Cada **click** que fem equivaldrà a 0.1 mils, també podem utilitzar ++shift+page-up++ o ++shift+page-down++ per avançar 1 mil de cop. Es important destacar que per a compensar una caiguda de bala que s'expressa en mils negatius, a la mira ho hem de fer amb mils positius tal com hem comentat anteriorment i no s'ha de confondre. Si intentem calibrar l'elevació de forma negativa veurem que apareix una "D" al costat, aquesta "D" ens indica que estem forçant la caiguda de bala (drop) en la mira directament (no es recomanable calibrar en negatiu tret d'algun cas concret, com trets a molta curta distància o amb caiguda positiva degut al vent o fenòmens externs).
 
 !!! hint "Click"
 
 	S'anomena "click" a cada vegada que calibrem un dels dos dials i sona el classic "click", un click equival normalment a una dècima de miliradiant (a no ser que s'especifiqui el contrari prèviament). S'utilitza molt quan s'opera en binomi per a transmètre més ràpidament les correccions d'observador a franctirador.
 
-Per moure el dial lateral es fa de la mateixa manera pero afegint la tecla ++ctrl++ al principi, per exemple ++ctrl+ re pag++ o ctrl+av pag++. En aquest cas observarem que apareix una R o una L al costat del nombre de mils, això ens indica si estem calibrant la desviació cap a la dreta (R) o cap a l'esquerra (L). Penseu que la desviació horitzonal només es calibra per compensar desviació per vent o degut al moviment del blanc.
+Per moure el dial lateral es fa de la mateixa manera pero afegint la tecla ++ctrl++ al principi, per exemple ++ctrl+page-up++ o ctrl+page-down++. En aquest cas observarem que apareix una R o una L al costat del nombre de mils, això ens indica si estem calibrant la desviació cap a la dreta (R) o cap a l'esquerra (L). Penseu que la desviació horitzonal només es calibra per compensar desviació per vent o degut al moviment del blanc.
 
 ![image](../_imatges/calibrarmira.jpg){: .center}
 

@@ -14,7 +14,7 @@ Apareixereu bocaterrossa davant del telescòpi i per mirar a través d'ell nomé
 
 ![image](../_imatges/spottingscope2.png){: .center}
 
-Veureu una retícula que us semblarà molt familiar, efectivament, es la mateixa retícula Mildot que ja hem vist en aquest manual. Amb les tecles +++++ i ++-++ calibrem el nivell de zoom del telescòpi.
+Veureu una retícula que us semblarà molt familiar, efectivament, es la mateixa retícula Mildot que ja hem vist en aquest manual. Amb les tecles ++num-plus++ i ++num-minus++ calibrem el nivell de zoom del telescòpi.
 
 ![image](../_imatges/spottingscope3.png){: .center}
 

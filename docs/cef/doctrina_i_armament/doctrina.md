@@ -128,18 +128,24 @@ Sempre que puguis i que l'entorn ho permeti, utilitza l'estoig de maquillatge pe
 
 ### Uniforme Ghillie: 
 
-* Què és? Es un tipus d'uniforme que es caracteritza per oferir un camuflatge complet, tant disruptiu com mimètic, basicament es un uniforme cobert amb tires de roba i vegetació artificial o no, que fan que (sempre que s'utilitzi en el medi adequat) el franctirador quedi completament integrat en l'entorn.
-* En quins entorns es vàlid? Es vàlid en entorns rurals principalment, però cal tenir en compte el tipus de Ghillie per a que s'adapti al tipus de vegetació d'aquella zona geogràfica.
-* Quan es fa servir? Quan s'opera de manera separada de la resta de tropes i a prop de la zona d'operacions.
-* Quan NO s'ha de fer servir mai? Quan es va enganxat a un element d'infanteria convencional, ja que et fa un objectiu prioritari. També quan preveus que t'hauràs de moure en entorns urbans o que et mouràs en vehícle.
+* **Què és?** Es un tipus d'uniforme que es caracteritza per oferir un camuflatge complet, tant disruptiu com mimètic, basicament es un uniforme cobert amb tires de roba i vegetació artificial o no, que fan que (sempre que s'utilitzi en el medi adequat) el franctirador quedi completament integrat en l'entorn.
+  
+* **En quins entorns es vàlid?** Es vàlid en entorns rurals principalment, però cal tenir en compte el tipus de Ghillie per a que s'adapti al tipus de vegetació d'aquella zona geogràfica.
+  
+* **Quan es fa servir?** Quan s'opera de manera separada de la resta de tropes i a prop de la zona d'operacions.
+  
+* **Quan NO s'ha de fer servir mai?** Quan es va enganxat a un element d'infanteria convencional, ja que et fa un objectiu prioritari. També quan preveus que t'hauràs de moure en entorns urbans o que et mouràs en vehícle.
 
 ![image](../_imatges/ghillie.png){: .center}
 
 ### Camuflar equipament:
 
 * En algunes ocasions podràs camuflar les teves armes o dispositius òptics amb pintura de colors o vegetació. En aquest cas tingues en compte els punts de l'apartat anterior.
+  
 * No deixis rastre del teu pas: no tiris objectes al terra que puguin alertar l'enemic a posteriori.
+  
 * Si et mous en vehícle, assegura't d'ocultar-lo. No l'aparquis al vell mig de la carretera.
+  
 * Si has de deixar equipament endarrerit a la zona d'operacions, coloca-ho tot dins una motxilla i deixa-la sota un matoll o un avet.
 
 

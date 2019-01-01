@@ -4,7 +4,7 @@ En aquest apartat veurem alguns mètodes tipus sobre com calibrar el fusell i co
 
 Cal recordar que el rol de franctirador es un rol que requereix tant d'un nivell alt de planificació prèvia, com de també d'un gran nivell d'improvització sobre la marxa, es per això que els mètodes que aqui exposem, volen ser una simple ajuda i en cap cas una pauta que s'hagi de seguir al peu de la lletra.
 
-### Mètode Quick Scope
+### Mètode Quick Kill
 
 Aquest mètode es útil per quan estem en moviment o estem en una zona on no esperem contacte immediat. Es el mètode que habitualment es fa servir per enfrontar-nos a contactes propers en zones de perill.
 

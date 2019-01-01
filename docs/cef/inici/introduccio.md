@@ -10,5 +10,7 @@ Realment es tracta d'un rol de tot menys glamurós, es tracta de ser capaç de p
 
 En aquest curs d'especialització se t'instruirà per a que puguis exercir tots els rols del tirador amb total eficàcia i professionalitat, basat en el curs d'Scout Snipers del Cos de Marines dels Estats Units.
 
+Per cert... veus quelcom d'estrany en la següent imatge?
+
 ![image](../_imatges/sniperamagat.jpg) {: .center}
 
