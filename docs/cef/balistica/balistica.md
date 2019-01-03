@@ -59,7 +59,7 @@ L'Efecte Coriolis es una acceleració aparent d'un cos que es mou de manera lliu
 
 ![image](../_imatges/coriolis.jpg){: .center}
 
-Per a compensar la desviació per Coriolis cal utilitzar una calculadora balística (ATragMX) i introduïr la latitud en graus, minuts i segons on ens trobem a més de l'azimut, de tal manera que la mateixa realitza les correccions adequades a cada cas. Això es veurà de manera més detallada a l'apartat de la calculadora.
+Per a compensar la desviació per Coriolis cal utilitzar una calculadora balística (ATragMX) i introduïr la latitud on ens trobem (més endavant s'explicarà com obtenir-la) a més de l'azimut, de tal manera que la mateixa realitza les correccions adequades a cada cas. Això es veurà de manera més detallada a l'apartat de la calculadora.
 
 ## Efecte Eötvös
 
