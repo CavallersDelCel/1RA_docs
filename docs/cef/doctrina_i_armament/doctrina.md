@@ -8,7 +8,7 @@ En un entorn ideal, el franctirador ha de ser capaç de realitzar un tret precí
 
 ### Crea àrees de denegació: 
 
-Un franctirador ben posicionat pot aturar un regiment sencer.
+Un franctirador ben posicionat pot aturar un regiment sencer. Cerca posicions que et permetin vigilar una àrea com més àmplia possible millor.
 
 ### Flanqueja l'enemic i canvia de posició: 
 
@@ -88,7 +88,7 @@ Un cop trobat el punt i determinat el temps que creus que t'hi estaràs. Conside
 
 ### Aguanta la respiració abans de disparar
 
-Tot i que això no es limita a aquest rol en concret, cal recordar que mentre s'efectua el tir cal aguantar la respiració durant uns instants per guanyar estabilitat i precissió. Sempre sense passar-nos ja que en aquest cas perdriem l'estabilitat.
+Tot i que això no es limita a aquest rol en concret, cal recordar que mentre s'efectua el tir cal aguantar la respiració durant uns instants per guanyar estabilitat i precisió. Sempre sense passar-nos ja que en aquest cas perdriem l'estabilitat.
 
 ### Determina la necessitat de desplegar elements defensius o de suport:
  
@@ -130,7 +130,7 @@ Sempre que puguis i que l'entorn ho permeti, utilitza l'estoig de maquillatge pe
 
 * **Què és?** Es un tipus d'uniforme que es caracteritza per oferir un camuflatge complet, tant disruptiu com mimètic, basicament es un uniforme cobert amb tires de roba i vegetació artificial o no, que fan que (sempre que s'utilitzi en el medi adequat) el franctirador quedi completament integrat en l'entorn.
   
-* **En quins entorns es vàlid?** Es vàlid en entorns rurals principalment, però cal tenir en compte el tipus de Ghillie per a que s'adapti al tipus de vegetació d'aquella zona geogràfica.
+* **En quins entorns es vàlid?** Es vàlid en entorns rurals principalment, però cal tenir en compte el tipus de Ghillie per a que s'adapti al tipus de vegetació d'aquella zona geogràfica. En tenim per a zones desèrtiques, per jungla, per vegetació mediterrània, etc.
   
 * **Quan es fa servir?** Quan s'opera de manera separada de la resta de tropes i a prop de la zona d'operacions.
   
