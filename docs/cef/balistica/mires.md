@@ -4,7 +4,7 @@ Una de les coses més importants del rol de franctirador es saber utilitzar corr
 
 ## El Miliradiant
 
-Es una unitat de mesura angular que equival a 0.001 rad mes comunment coneguda com a **"mil"** o **"mrad"**, la qual serveix per a calibrar les mires telescòpiques que incorporen un sistema de calibratge basat en aquesta unitat. Els miliradiants no només estan presents en l'àmbit dels franctiradors com haureu pogut deduir, sino que també serveixen per aspectes relacionats amb l'artilleria i els suports, fixeu-vos per exemple en la segona escala de la vostra bruixola.
+Es una unitat de mesura angular que equival a 0.001 radiants, es a dir una mil·lèssima de radiant, el radiant es una unitat de mesura d'angles de manera similar als graus centesimals, de manera que 2π radiants equivalen a 360 graus centesimals. La mil·lèssima de radiant es comunment coneguda com a **"mil"** o **"mrad"**, la qual serveix per a calibrar les mires telescòpiques que incorporen un sistema de calibratge basat en aquesta unitat. Els miliradiants no només estan presents en l'àmbit dels franctiradors com haureu pogut deduir, sino que també serveixen per aspectes relacionats amb l'artilleria i els suports, fixeu-vos per exemple en la segona escala de la vostra bruixola.
 
 El perque d'utilitzar aquesta unitat en l'ambit dels tiradors, es pel fet que es molt precisa, i ens permet filar molt prim, de manera que les desviacions dels trets a més distància, poden reduïr-se a uns pocs centímetres.
 
@@ -22,7 +22,7 @@ Heu de conèixer que a part dels miliradiants existeix una altra unitat de mesur
 
 La mira telescòpica amb reticula Mil-Dot es la més freqüent i la que nosaltres utilitzarem com a estàndard, degut tant al fet de la seva senzillesa com a que permet fer correccions en mils de manera molt rapida i sense necessitat d'estar recalibrant constament la mira.
 
-La reticula esta formada per una creu amb uns eixos gruixuts als extrems i prims al centre i amb una serie de 8 punts negres per a cada eix.
+La retícula esta formada per una creu amb uns eixos gruixuts als extrems i prims al centre i amb una serie de 8 punts negres per a cada eix.
 
 Els punts negres serveixen per calcular les correccions en mils. De manera que un interval complet des del centre d'un dels punts fins al centre del següent, es mesura 1 mil. Les ratlles entre dos punts equivalen a 0.8 mils i el diametre de cada punt a 0.2 mils. El total des del centre de la reticula a cada una de les linies gruixudes es de 5 mils. Tot aixo ho podeu veure millor en la següent il·lustració.
 
@@ -37,7 +37,7 @@ Els punts negres serveixen per calcular les correccions en mils. De manera que u
 
 ### Mira telescòpica M8541
 
-La retícula de la mira M8541 disposa dels punts que marquen els mils però també d'una serie de ratlles intermedies que permeten filar més prim, de manera que obtenim intervals de 0.5 mils. A partir de 5 mils, els eixos gruixuts presenten també ratlles cada 5 mils. Aquesta mira es interessant per a tirs a distàncies inferiores al kilòmetre.
+La retícula de la mira M8541 disposa dels punts que marquen els mils però també d'una serie de ratlles intermedies que permeten filar més prim, de manera que obtenim intervals de 0.5 mils. A partir de 5 mils, els eixos gruixuts presenten també ratlles cada 5 mils. Aquesta mira es interessant per a tirs a distàncies inferiors al kilòmetre.
 
 ![image](../_imatges/reticulam8551.jpg){: .center}
 
@@ -71,7 +71,7 @@ Per a fer-ho simplement situem cada eix a l'altura que ens convé tenint en comp
 
 ![image](../_imatges/exemplecorreccio.png){: .center}
 
-En aquest cas hem calculat que el vent ve de dreta a esquerra i no es gaire fort, per tant corregim la possible desviació de la bala 1 mil a la dreta. També hem calculat que hem de corregir la caiguda de la bala en 1.5 mils degut a la distància de l'objectiu i la temperatura fent servir la taula de rangs que veurem al següent capítol.
+En aquest cas hem calculat que el vent ve de dreta a esquerra i no es gaire fort, per tant corregim la possible desviació de la bala 1 mil a la esquerra, movent el centre d'eixos 1 mil a la dreta per a compensar. També hem calculat que hem de corregir la caiguda de la bala en 1.5 mils degut a la distància de l'objectiu i la temperatura, tot fent servir la taula de rangs que veurem al següent capítol.
 
 Cal entendre que no tansols podem ajustar el tret horitzontalment per a compensar l'acció del vent, també ho podem fer per compensar el moviment relatiu d'un cos de manera horitzontal, tal com es pot veure en la següent imatge: 
 
@@ -83,7 +83,7 @@ També cal indicar que tot i que hi ha mètodes per encertar blancs en moviment 
 
 ## Calibrar la mira
 
-Per a calibrar la mira telescòpica tenim els dos dials, el superior i el lateral. El dial superior calibra l'elevació vertical, mentres que el lateral calibra la desviació horitzontal. 
+Per a calibrar la mira telescòpica tenim els dos dials (torretes), el superior i el lateral. El dial superior calibra l'elevació vertical, mentres que el lateral calibra la desviació horitzontal. 
 
 Per a moure el dial superior, que es el que més utilitzarem a la pràctica, utilitzem les tecles ++page-down++ i ++page-up++. Cada **click** que fem equivaldrà a 0.1 mils, també podem utilitzar ++shift+page-up++ o ++shift+page-down++ per avançar 1 mil de cop. Es important destacar que per a compensar una caiguda de bala que s'expressa en mils negatius, a la mira ho hem de fer amb mils positius tal com hem comentat anteriorment i no s'ha de confondre. Si intentem calibrar l'elevació de forma negativa veurem que apareix una "D" al costat, aquesta "D" ens indica que estem forçant la caiguda de bala (drop) en la mira directament (no es recomanable calibrar en negatiu tret d'algun cas concret, com trets a molta curta distància o amb caiguda positiva degut al vent o fenòmens externs).
 
