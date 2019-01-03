@@ -2,7 +2,7 @@
 
 ## Vista ràpida
 
-La Horus ATragMX es una calculadora balística de butxaca que permet calcular amb total precissió els valors d'elevació, wind drift, coriolis drift, spin drift i lead drift amb els quals calibrarem la mira telescòpica per efectuar trets d'alta precissió.
+La Horus ATragMX es una calculadora balística de butxaca que permet calcular amb total precisió els valors d'elevació, wind drift, coriolis drift, spin drift i lead drift amb els quals calibrarem la mira telescòpica per efectuar trets d'alta precisió.
 
 Es tracta de l'eina més potent que tenim al nostre abast i la quantitat de funcionalitats que te la fan molt complexa d'utilitzar. En aquest curs, tot i que veurem totes les seves funcionalitats en detall, només ens interessa que s'aprengui a fer servir amb el mètode bàsic i ràpid que veurem en el següent capítol.
 
@@ -20,7 +20,7 @@ A la pantalla principal trobarem diferents opcions (els botons estan resaltats e
 6. **MILs:** Ens permet canviar entre les diferents unitats base, MILs, MOAs, clicks, etc.
 7. **Options:** Ens permet modificar algunes opcions de la calculadora i accedir a eines avançades.
 8. Tipus de munició que tenim seleccionat.
-9. Sistema d'unitats, normalment farem servir M (sistema mètric), D i E son diferents versions del sistema imperial i es faran servir per a ajustar les dades balístiques de la taula de rangs, que generalment venen donades en aquest sistema. RC es una petita taula de rangs autocalculada.
+9. Sistema d'unitats, normalment farem servir M (sistema mètric), D i E son diferents versions del sistema imperial i es faran servir per a ajustar les dades balístiques de la taula de rangs, que generalment venen donades en aquest sistema. RC es una petita taula de rangs auto-calculada.
 
 ## Funcionament
 
@@ -57,10 +57,10 @@ En cas de que no disposem de les dades balístiques ja predeterminades a la calc
 Aquesta part es força avançada i rarament es donarà el cas en que ho haguem de fer, tanmateix expliquem el procediment a grans trets per a que tingueu aquesta informació a ma.
 
 1. Anem a **GunList**.
-2. Carreguem les dades balístiques del calibre que més s'acosti al que volem configurar.
+2. Carreguem les dades balístiques del calibre que més s'acosti més al que volem configurar o d'un de semblant.
 3. Fem clic a **Add New Gun** i li donem un nom a la configuració.
 4. Seleccionem i carreguem la nova configuració des de la llista (haurà copiat les dades del calibre que hem carregat anteriorment).
-5. Canviem el sistema d'unitats a imperial i introduïm els valors de Bore, pes de la bala en grains (gr), diàmetre de la bala en polzades i Rifle Twist de la taula de rangs (veure la imatge de més amunt).
+5. Canviem el sistema d'unitats a imperial (E) i introduïm els valors de Bore, pes de la bala en grains (gr), diàmetre de la bala en polzades i Rifle Twist de la taula de rangs (veure la imatge de més amunt).
 6. Canviem el sistema d'unitats a mètric i anem a la pantalla principal. Fem clic al botó **MV** dins l'apartat de **Gun**.
 7. Introduïm els diferents valors de Muzzle Velocity corresponent a les diferents temperatures (també des de la taula de rangs).
 8. Ens asegurem que el valor Zero Range es 100m al estar en el sistema mètric.
