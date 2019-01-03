@@ -1,8 +1,8 @@
 # Armament
 
-Anomenem fusell de franctirador a tot aquell fusell que per les seves característiques permet el tir acurat a distàncies mes llargues que un fusell d'assalt convencional, normalment iguals o superiors als 600m en condicions ideals.
+Anomenem fusell de precisió a tot aquell fusell que per les seves característiques permet el tir acurat a distàncies mes llargues que un fusell d'assalt convencional, normalment iguals o superiors als 600m en condicions ideals.
 
-Existeixen una gran varietat de fusells de franctirador per a tots els propòsits, des dels més senzills i de semblança als fusells d'assalt, als més pesats, complexos i potents, capaços de fer tirs a una gran distància.
+Existeixen una gran varietat de fusells de precisió per a tots els propòsits, des dels més senzills i de semblança als fusells d'assalt, als més pesats, complexos i potents, capaços de fer tirs a una gran distància.
 
 En aquesta especialització, ens centrarem però en tres d'ells, els quals tenim disponibles al nostre arsenal i son d'un ús habitual. Es tracta del Mk 11 Mod 0, del M40A6 i del famós M107 Barret.
 
@@ -12,15 +12,15 @@ També revisarem els diferents tipus de munició que tenim disponibles per a cad
 
 ### Escollir l'armament segons la situació:
 
-* **MTE (Multiple Target Engagement):** Es tracta de situacions on tenim multiples objectius a diferents distàncies o no, de manera que no es necessari "un tir un mort" ni tampoc necessàriament tirs a llarga distància. Habitualment per aquest tipus d'ocasions ens servirà un fusell de tipus marksman o M107 a llarga distància pel fet que ofereixen rapidesa al ser semiautomàtics i la precissió absoluta no es vital.
+* **MTE (Multiple Target Engagement):** Es tracta de situacions on tenim multiples objectius a diferents distàncies o no, de manera que no es necessari "un tir un mort" ni tampoc necessàriament tirs a llarga distància. Habitualment per aquest tipus d'ocasions ens servirà un fusell de tipus *marksman* o M107 a llarga distància pel fet que ofereixen rapidesa al ser semiautomàtics i la precissió absoluta no es vital.
 
-* **HVT (High Valuable Target):** Es tracta de situacions on hem d'abatre d'un sol tret un sol objectiu. En aquest cas prevaldrà l'ús de fusells de precissió com l'M40 o M107 i a distàncies mitjes i llargues.
+* **HVT (High Valuable Target):** Es tracta de situacions on hem d'abatre d'un sol tret un sol objectiu. En aquest cas prevaldrà l'ús de fusells de precisió com l'M40 o M107 i a distàncies mitjes i llargues.
 
-* **HC (Hostage Crisis):** Aquestes situacions normalment requereixen de tir precís a distàncies curtes per tant depen molt de la zona on ens trobem podria ser interessant l'ús de fusells de marksman.
+* **HC (Hostage Crisis):** Aquestes situacions normalment requereixen de tir precís a distàncies curtes per tant depen molt de la zona on ens trobem podria ser interessant l'ús de fusells de *marksman*.
 
 ### Transportador (Protractor):
 
-Tenim disponible un transportador per a calcular l'angle d'inclinació de l'arma (només funciona en fusells compatibles amb ACE3). Per a mostrar el transportador simplement hem de premer ++ctrl+shift+t++ mentre tenim l'arma alçada. El transportador desapareixerà quan abaixis el fusell o t'el pengis.
+Tenim disponible un transportador per a calcular l'angle d'inclinació de l'arma (només funciona en fusells compatibles amb ACE3). Per a mostrar el transportador simplement hem de premer ++ctrl+shift+t++ mentre tenim l'arma alçada. El transportador desapareixerà quan abaixis el fusell o te'l pengis.
 
 ![image](../_imatges/protractor.png){: .center}
 
@@ -30,7 +30,7 @@ Tenim disponible un transportador per a calcular l'angle d'inclinació de l'arma
 
 ![image](../_imatges/mk11.jpg){: .center}
 
-Es un fusell marksman semiautomàtic del calibre 7,62 basat en l'SR-25 manufacturat per Knight's Armament Company. Es tracta de la versió adaptada als usos i costums dels Marines dels Estats Units i especialment dissenyat per al rol de tirador designat, tot i que també s'utilitza molt en el rol de franctirador.
+Es un fusell *marksman* semiautomàtic del calibre 7,62 basat en l'SR-25 manufacturat per Knight's Armament Company. Es tracta de la versió adaptada als usos i costums dels Marines dels Estats Units i especialment dissenyat per al rol de tirador designat, tot i que també s'utilitza molt en el rol de franctirador.
 
 Els punts forts del fusell son principalment que es lleuger i fàcil de manegar, disposa d'un ampli carregador amb fins a 20 cartutxos, es semiautomàtic i permet tir precís fins vora els 800m.
 
@@ -43,7 +43,7 @@ Els punts forts del fusell son principalment que es lleuger i fàcil de manegar,
 | **Rang màxim efectiu:**                 | 800 m                                                                                                                |
 | **Rang màxim:** | 1.300 m                                                                      |
 | **Acció:**          | Semi-automàtic                                                                                                      |
-|
+
 
 **Úsos:** 
 
@@ -74,7 +74,7 @@ Per les seves característiques, es força lleuger, te una precissió absoluta m
 | **Rang màxim efectiu:**                 | 800 m                                                                                                                |
 | **Rang màxim:** | 1.300 m                                                                      |
 | **Acció:**          | Forrellat                                                                                                     |
-|
+
 
 **Úsos:** 
 
@@ -105,7 +105,7 @@ Tot i ser un fusell indicat per al rol de franctirador, també es pot utilitzar 
 | **Rang màxim efectiu:**                 | 1.800 m                                                                                                                |
 | **Rang màxim:** | 6.812 m                                                                      |
 | **Acció:**          | Semi-automàtic                                                                                                     |
-|
+
 
 **Úsos:** 
 
