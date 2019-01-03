@@ -2,7 +2,7 @@
 
 Al Primer Regiment Amfibi utilitzem el mod ACE 3 que incorpora un mòdul de balística avançada. Aquest mòdul simula diferents efectes de l'entorn que tenen incidència en la trajectoria de la bala.
 
-Aquests efectes si bé son poc destacables a distància de fuseller, si ho son a distàncies llargues com les que utilitza generalment un tirador o franctirador.
+Aquests efectes si bé son poc destacables a distància de fuseller, si ho son a distàncies llargues com les que utilitza generalment un franctirador.
 
 En aquest apartat expliquem els principals efectes físics que es tenen en compte i algunes recomanacions sobre com corregir-los.
 
@@ -59,7 +59,7 @@ L'Efecte Coriolis es una acceleració aparent d'un cos que es mou de manera lliu
 
 ![image](../_imatges/coriolis.jpg){: .center}
 
-Per a compensar la desviació per Coriolis cal utilitzar una calculador balística (ATragMX) i introduïr la latitud en graus, minuts i segons on ens trobem a més de l'azimut, de tal manera que la mateixa realitza les correccions adequades a cada cas. Això es veurà de manera més detallada a l'apartat de la calculadora.
+Per a compensar la desviació per Coriolis cal utilitzar una calculadora balística (ATragMX) i introduïr la latitud en graus, minuts i segons on ens trobem a més de l'azimut, de tal manera que la mateixa realitza les correccions adequades a cada cas. Això es veurà de manera més detallada a l'apartat de la calculadora.
 
 ## Efecte Eötvös
 
