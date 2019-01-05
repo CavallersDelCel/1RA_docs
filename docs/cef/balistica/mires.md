@@ -91,7 +91,7 @@ Per a moure el dial superior, que es el que més utilitzarem a la pràctica, uti
 
 	S'anomena "click" a cada vegada que calibrem un dels dos dials i sona el classic "click", un click equival normalment a una dècima de miliradiant (a no ser que s'especifiqui el contrari prèviament). S'utilitza molt quan s'opera en binomi per a transmètre més ràpidament les correccions d'observador a franctirador.
 
-Per moure el dial lateral es fa de la mateixa manera pero afegint la tecla ++ctrl++ al principi, per exemple ++ctrl+page-up++ o ctrl+page-down++. En aquest cas observarem que apareix una R o una L al costat del nombre de mils, això ens indica si estem calibrant la desviació cap a la dreta (R) o cap a l'esquerra (L). Penseu que la desviació horitzonal només es calibra per compensar desviació per vent o degut al moviment del blanc.
+Per moure el dial lateral es fa de la mateixa manera pero afegint la tecla ++ctrl++ al principi, per exemple ++ctrl+page-up++ o ++ctrl+page-down++. En aquest cas observarem que apareix una R o una L al costat del nombre de mils, això ens indica si estem calibrant la desviació cap a la dreta (R) o cap a l'esquerra (L). Penseu que la desviació horitzonal només es calibra per compensar desviació per vent o degut al moviment del blanc.
 
 ![image](../_imatges/calibrarmira.jpg){: .center}
 
