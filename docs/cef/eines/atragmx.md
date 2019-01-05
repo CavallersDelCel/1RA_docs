@@ -6,7 +6,7 @@ La Horus ATragMX es una calculadora balística de butxaca que permet calcular am
 
 Es tracta de l'eina més potent que tenim al nostre abast i la quantitat de funcionalitats que te la fan molt complexa d'utilitzar. En aquest curs, tot i que veurem totes les seves funcionalitats en detall, només ens interessa que s'aprengui a fer servir amb el mètode bàsic i ràpid que veurem en el següent capítol.
 
-La calculadora la trobarem en qualsevol arsenal, tingueu en compte que al ser un aparell relativament modern es probable que depenent l'any en que s'ha ambientat la missió no la tinguem disponible. Un cop la tinguem equipada farem servir el menú d'interacció pròpia de l'ACE 3 en el subapartat d'equimanet, per a poder manipular-la.
+La calculadora la trobarem a qualsevol arsenal, tingueu en compte que al ser un aparell relativament modern es probable que depenent l'any en que s'ha ambientat la missió no la tinguem disponible. Un cop la tinguem equipada farem servir el menú d'interacció pròpia de l'ACE 3 en el subapartat d'equipament, per a poder manipular-la.
 
 ![image](../_imatges/atragmx1.png){: .center}
 
