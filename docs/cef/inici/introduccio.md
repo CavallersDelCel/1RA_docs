@@ -12,5 +12,5 @@ En aquest curs d'especialització se t'instruirà per a que puguis exercir tots 
 
 Per cert... veus quelcom d'estrany en la següent imatge?
 
-![image](../_imatges/sniperamagat.jpg) {: .center}
+![image](../_imatges/sniperamagat.jpg){: .center}
 
