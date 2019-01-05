@@ -94,7 +94,7 @@ Tot i que això no es limita a aquest rol en concret, cal recordar que mentre s'
  
 Determina si es necessari crear un 'foxhole' o pou de tiradors, colocar un sac de sorra per a recolzar el fusell, desplegar un tripode per al mateix, colocar mines direccionals a la rereguarda, etc.
  
-### Elements de suport tipics
+**Elements de suport tipics:**
  
 - Pala de campanya.
 - Tripode.
