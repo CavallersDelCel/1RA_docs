@@ -1,6 +1,6 @@
 # ANNEX 5: Exemples d'equipacions
 
-### Tirador designat dels US Marines (regulars): 
+### Tirador designat dels US Marines (regulars)
 
 - Uniforme FROG.
 - Casc LWH.
@@ -18,7 +18,7 @@
 - 2 granades M67.
 - 2 granades de fum blanc AN-M8HC.
 
-### Franctirador Scout Snipers dels US Marines: 
+### Franctirador Scout Snipers dels US Marines
 
 - Uniforme FROG/G3/Ghillie segons convingui.
 - Casc FAST, MICH200 o Boonie.
@@ -45,7 +45,7 @@
 - 2 granades de fum blanc AN-M8HC.
 - Pistola Kimber Custom II amb 4 carregadors.
 
-### Observador Scout Snipers dels US Marines: 
+### Observador Scout Snipers dels US Marines
 
 - Uniforme FROG/G3/Ghillie segons convingui.
 - Casc FAST, MICH200 o Boonie.
