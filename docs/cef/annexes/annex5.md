@@ -21,7 +21,7 @@
 ### Franctirador Scout Snipers dels US Marines
 
 - Uniforme FROG/G3/Ghillie segons convingui.
-- Casc FAST, MICH200 o Boonie.
+- Casc FAST, MICH2000 o Boonie.
 - Armilla MBAV.
 - Funda per al fusell o motxilla.
 - Ulleres balístiques, balaclava, shemag o mocador.
@@ -48,7 +48,7 @@
 ### Observador Scout Snipers dels US Marines
 
 - Uniforme FROG/G3/Ghillie segons convingui.
-- Casc FAST, MICH200 o Boonie.
+- Casc FAST, MICH2000 o Boonie.
 - Armilla MBAV.
 - Motxilla.
 - Ulleres balístiques, balaclava, shemag o mocador.
