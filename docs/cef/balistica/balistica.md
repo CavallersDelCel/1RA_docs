@@ -24,7 +24,7 @@ La desviació degut al vent també es un element molt destacable que també es p
 
 Per a tenir en compte el vent podem fer-ho de tres maneres:
 
-   1. **Aproximant a ull:** Fent servir el dit mullat en saliva (++shift+h++) podem notar d'on ve el vent i amb quina intensitat. La intensitat aparent ve donada amb codi de colors de l'Escala de Beaufort d'aquesta manera podem aproximar la velocitat del vent (molt útil per a correccions ràpides i per aplicar amb la taula de rangs. Consultar ANNEX 4 per a veure la taula d'aproximacions.
+   1. **Aproximant a ull:** Fent servir el dit mullat en saliva (++shift+k++) podem notar d'on ve el vent i amb quina intensitat. La intensitat aparent ve donada amb codi de colors de l'Escala de Beaufort d'aquesta manera podem aproximar la velocitat del vent (molt útil per a correccions ràpides i per aplicar amb la taula de rangs. Consultar ANNEX 4 per a veure la taula d'aproximacions.
 
 ![image](../_imatges/fletxavent.jpg){: .center}
 
