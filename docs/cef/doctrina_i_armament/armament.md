@@ -4,7 +4,7 @@ Anomenem fusell de precisió a tot aquell fusell que per les seves característi
 
 Existeixen una gran varietat de fusells de precisió per a tots els propòsits, des dels més senzills i de semblança als fusells d'assalt, als més pesats, complexos i potents, capaços de fer tirs a una gran distància.
 
-En aquesta especialització, ens centrarem però en tres d'ells, els quals tenim disponibles al nostre arsenal i son d'un ús habitual. Es tracta del Mk 11 Mod 0, del M40A6 i del famós M107 Barret.
+En aquesta especialització, ens centrarem però en tres d'ells, els quals tenim disponibles al nostre arsenal i son d'un ús habitual. Es tracta de l'Mk11 Mod 0, del M40A5 i del famós M107 Barret.
 
 També revisarem els diferents tipus de munició que tenim disponibles per a cada fusell i quan utilitzar-los.
 
