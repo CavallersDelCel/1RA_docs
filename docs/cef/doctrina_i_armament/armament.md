@@ -10,7 +10,7 @@ També revisarem els diferents tipus de munició que tenim disponibles per a cad
 
 ![image](../_imatges/fusells.png){: .center}
 
-### Escollir l'armament segons la situació:
+### Escollir l'armament segons la situació
 
 * **MTE (Multiple Target Engagement):** Es tracta de situacions on tenim multiples objectius a diferents distàncies o no, de manera que no es necessari "un tir un mort" ni tampoc necessàriament tirs a llarga distància. Habitualment per aquest tipus d'ocasions ens servirà un fusell de tipus *marksman* o M107 a llarga distància pel fet que ofereixen rapidesa al ser semiautomàtics i la precissió absoluta no es vital.
 
@@ -18,7 +18,7 @@ També revisarem els diferents tipus de munició que tenim disponibles per a cad
 
 * **HC (Hostage Crisis):** Aquestes situacions normalment requereixen de tir precís a distàncies curtes per tant depen molt de la zona on ens trobem podria ser interessant l'ús de fusells de *marksman*.
 
-### Transportador (Protractor):
+### Transportador (Protractor)
 
 Tenim disponible un transportador per a calcular l'angle d'inclinació de l'arma (només funciona en fusells compatibles amb ACE3). Per a mostrar el transportador simplement hem de premer ++ctrl+shift+t++ mentre tenim l'arma alçada. El transportador desapareixerà quan abaixis el fusell o te'l pengis.
 
