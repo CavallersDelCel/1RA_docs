@@ -71,6 +71,6 @@ Esquerra HALF LEAD, dreta NO LEAD.
 
 ![image](../_imatges/lead2.png){: .center}
 
-### Peu:
+### Peu
 
 Al peu ens indica el valor "bore" de la mira amb la que s'ha caculat la taula, aquesta dada es important per a càlculs avançats com veurem en l'apartat de la calculadora.
