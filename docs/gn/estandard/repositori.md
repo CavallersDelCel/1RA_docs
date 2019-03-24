@@ -28,7 +28,7 @@ Per poder baixar l'Estàndard cal que us instal·leu l'ArmA3sync. Aquest program
 * Podeu baixar el programa des d'[aquest enllaç](http://www.armaholic.com/page.php?id=22199).
 * *Requereix [Java](http://www.java.com/en/download) per funcionar.*
 
-Un cop instal·lat el programa, si l'executeu es possible que us pregunti on teniu instal·lat l'ArmA 3. Li heu d'indicar la carpeta arrel de l'Arma 3, que normalment es troba dintre de la carpeta Steam `...\Steam\SteamApps\common\Arma 3`.
+Un cop instal·lat el programa, si l'executeu es possible que us pregunti on teniu instal·lat l'ArmA 3. Li heu d'indicar la carpeta arrel de l'Arma 3, que normalment es troba dintre de la carpeta Steam `...\Steam\SteamApps\common\Arma 3`. Si heu de seleccionar l'executable del simulador, heu de seleccionar el de 64 bits, es a dir `arma3_x64.exe`.
 
 Un cop ho tinguem fet, passarem a afegir la carpeta on volem descarregar els addons. Aquesta carpeta pot estar a qualsevol lloc, inclús en un altre disc dur diferent a on teniu instal·lat l'ArmA 3.
 

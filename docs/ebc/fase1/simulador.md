@@ -12,13 +12,7 @@ ArmA 3 és un simulador molt complex, que requereix de molts mecanismes i tecles
 
 Aquí et donarem unes nocions bàsiques d'alguns paràmetres importants per configurar el simulador i extreure'n el màxim de rendiment.
 
-Per evitar possibles problemes, es recomana llançar el simulador amb permisos d'administrador. Cal que poseu el permisos al fitxer arma3.exe a la carpeta arrel del simulador.
-
-### Joc
-
-Es recomana ajustar el Capcineig a un nivell baix. És el que fa que el soldat mogui el cap en caminar, i a nivells més alts pot ser molest i dificultar la identificació d'amenaces.
-
-Per saber el nivell de dificultat que cal establir, consulteu el PDB (Paquet de benvinguda) que us vam donar a l'entrar al grup.
+Per evitar possibles problemes, es recomana llançar el simulador amb permisos d'administrador. Cal que poseu el permisos al fitxer arma3_x64.exe a la carpeta arrel del simulador.
 
 ### So
 
