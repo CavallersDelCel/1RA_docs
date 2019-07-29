@@ -23,6 +23,7 @@ Necessites tenir comprats legalment els següents jocs i expansions. No cal que 
 * [ArmA 3 Global Mobilization](https://store.steampowered.com/app/1042220/Arma_3_Creator_DLC_Global_Mobilization__Cold_War_Germany/)
 
 També necessites:
+
 * [TeamSpeak 3](https://www.teamspeak.com/en/downloads/) instal·lat (versió 64 bits)
 * Micròfon i auriculars funcionals.
 * PC que compleixi els requisits de l'ArmA 3 (consulta pàgina de Steam)
@@ -33,11 +34,11 @@ Ja ho tens tot? Doncs continuem.
 
 ## Pas 2: Fòrums
 
-Registra't als nostres fòrums: http://www.cavallersdelcel.cat/forums
+Registra't als nostres fòrums: [http://www.cavallersdelcel.cat/forums](http://www.cavallersdelcel.cat/forums)
 
-Presenta't a la comunitat sencera: http://cavallersdelcel.cat/forums/forums/%EF%BB%BFallistament.5/
+Presenta't a la comunitat sencera: [http://cavallersdelcel.cat/forums/forums/%EF%BB%BFallistament.5/](http://www.cavallersdelcel.cat/forums)
 
-Presenta't al grup d'ArmA 3: http://cavallersdelcel.cat/forums/forums/allistament.36/
+Presenta't al grup d'ArmA 3: [http://cavallersdelcel.cat/forums/forums/allistament.36/](http://www.cavallersdelcel.cat/forums)
 
 Ja ho has fet? Seguim doncs.
 
@@ -45,7 +46,7 @@ Ja ho has fet? Seguim doncs.
 
 Per a les comunicacions diàries i habituals utilitzem [Discord](https://discordapp.com/), que es un xat semblant a una barreja entre Whatsapp i Skype. El pots instal·lar al PC i al mòbil i també disposa de versió de navegador.
 
-El nostre canal de Discord: https://discord.gg/4RGJdTv
+El nostre canal de Discord: [https://discord.gg/4RGJdTv](http://www.cavallersdelcel.cat/forums)
 
 Es important que abans de continuar, et connectis al canal de Discord i et presentis.
 
@@ -134,25 +135,25 @@ A partir d'aqui has de configurar i descarregar tots els nostres repositoris de 
 
 `http://www.cavallersdelcel.cat/magatzem/ArmA/repositori_a3sync/3_nam/.a3s/autoconfig`
 
-1. Ves a la pestanya del final `Repositories`, i fes clic al primer botó, la creu blava.
+1- Ves a la pestanya del final `Repositories`, i fes clic al primer botó, la creu blava.
 
 ![image](_imatges/repositories1.png){: .center}
 
-2. Aquí has de posar a la primera casella l'adreça del repositori i li dones al botó `Import`.
+2- Aquí has de posar a la primera casella l'adreça del repositori i li dones al botó `Import`.
 
 ![image](_imatges/repositories2.png){: .center}
 
-3. Això farà que s'ompli tota la informació de sota, només queda fer clic a `Ok`.
+3- Això farà que s'ompli tota la informació de sota, només queda fer clic a `Ok`.
 
 ![image](_imatges/repositories3.png){: .center}
 
-4. Ara selecciona el repositori de la llista i fes clic al botó de la fletxa blava.
+4- Ara selecciona el repositori de la llista i fes clic al botó de la fletxa blava.
 
 Nota: Si ho desitges, pots marcar les caselles `Notify` i `Auto` si vols que t'avisi de quan hi ha una actualització i intenti actualitzar-te'l automaticament. Tingues en compte però, que sempre solem avisar amb antelació quan cal actualitzar.
 
 ![image](_imatges/repositories4.png){: .center}
 
-5. Un cop connectat al repositori, has de fer clic al botó verd de `Check for addons` (comprova si tens els mods descarregats), després comprova que tens seleccionada la carpeta on es descarregaran els mods, marca la casella `Select All` i seguidament fer clic al botó de `Play`.
+5- Un cop connectat al repositori, has de fer clic al botó verd de `Check for addons` (comprova si tens els mods descarregats), després comprova que tens seleccionada la carpeta on es descarregaran els mods, marca la casella `Select All` i seguidament fer clic al botó de `Play`.
 
 ![image](_imatges/repositories5.png){: .center}
 
@@ -190,7 +191,7 @@ Ja gairebé ho tens!
 
 **Abans de seguir aquest pas t'has d'assegurar que tens instal·lat el `TeamSpeak 3`.*
 
-L'ACRE2 es el mod de comunicacions (radio i veu) que utilitza el TeamSpeak 3 com a servidor de veu. 
+L'ACRE2 es el mod de comunicacions (radio i veu) que utilitza el TeamSpeak 3 com a servidor de veu.
 
 Per a poder fer-lo servir es necessari instal·lar un `plugin`. Aquest plugin s'instal·la automàticament quan arranquem el simulador amb el mod ACRE2 posat.
 
@@ -202,7 +203,7 @@ Espera a que l'ArmA 3 carregui. En un moment donat t'apareixerà el següent mis
 
 ![image](_imatges/acre2_2.png){: .center}
 
-Un cop instal·lat i sense apagar l'ArmA 3, obre el TeamSpeak 3 i 
+Un cop instal·lat i sense apagar l'ArmA 3, obre el TeamSpeak 3 i
 connecta't al servidor de Cavallers del Cel.
 
 Servidor: ts.cavallersdelcel.cat
@@ -241,7 +242,7 @@ Al final de tot, veuràs les missions programades per als següents dies. Per a 
 
 Un cop arribi el dia de la missió, entra 15 minuts abans al TeamSpeak 3, repassa que tinguis els mods ben actualitzats i que funcioni l'ACRE2. Si tens algun dubte, t'el resoldràn els companys mateixos abans d'entrar.
 
-## Ja ets tot un Marine!
+## Ja ets tot un Marine
 
 A partir d'ara ja ets un membre més del 1er Regiment Amfibi i podràs seguir forman-te amb els cursos que tenim preparats.
 
