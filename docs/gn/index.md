@@ -27,7 +27,7 @@ També necessites:
 * Micròfon i auriculars funcionals.
 * PC que compleixi els requisits de l'ArmA 3 (consulta pàgina de Steam)
 * Connexió a Internet estable.
-* 120 Gb d'espai de disc lliures.
+* Com a mínim 150 Gb d'espai de disc lliures.
 
 Ja ho tens tot? Doncs continuem.
 
@@ -39,13 +39,17 @@ Presenta't a la comunitat sencera: http://cavallersdelcel.cat/forums/forums/%EF%
 
 Presenta't al grup d'ArmA 3: http://cavallersdelcel.cat/forums/forums/allistament.36/
 
+Ja ho has fet? Seguim doncs.
+
 ## Pas 3: Discord
 
-Per a les comunicacions diàries i habituals utilitzem [Discord](https://discordapp.com/), que es un xat semblant a una barreja entre Whatsapp i Skype. El podeu instal·lar al PC i al mòbil i també disposa de versió de navegador.
+Per a les comunicacions diàries i habituals utilitzem [Discord](https://discordapp.com/), que es un xat semblant a una barreja entre Whatsapp i Skype. El pots instal·lar al PC i al mòbil i també disposa de versió de navegador.
 
 El nostre canal de Discord: https://discord.gg/4RGJdTv
 
-Es important que abans de continuar, us connecteu al canal de Discord i us presenteu.
+Es important que abans de continuar, et connectis al canal de Discord i et presentis.
+
+Ja t'has presentat? Seguim doncs.
 
 ## Pas 4: Funcionament i normativa
 
@@ -55,7 +59,7 @@ Per altra banda, abans de participar a les nostres missions es imprescindible qu
 
 ## Pas 5: Perfil
 
-En el menú principal del simulador, aneu al botó de perfil que hi ha a dalt a la
+Dins el menú principal del simulador, ves al botó de perfil que hi ha a dalt a la
 dreta (és la icona d’un cap).
 
 ![image](_imatges/perfil1.png){: .center}
@@ -76,7 +80,7 @@ Mes endavant se't donarà un enllaç que hauràs d'enganxar al camp `SQUAD XML`,
 
 ## Pas 6: Bootcamp (Opcional)
 
-Si no has jugat mai a l'ArmA 3, et recomanem que facis la mini-campanya introductòria Bootcamp i si tens temps els entrenaments virtuals, així aprendràs a utilitzar els controls d'una manera pràctica i divertida.
+Si no has jugat mai a l'ArmA 3, et recomanem que facis la mini-campanya introductòria Bootcamp i, si tens temps, els entrenaments virtuals, així aprendràs a utilitzar els controls d'una manera pràctica i divertida.
 
 ![image](_imatges/bootcamp.png){: .center}
 
@@ -84,44 +88,43 @@ Aquest pas es opcional i no cal que esperis a completar-lo per a continuar amb e
 
 ## Pas 7: Descàrrega de mods
 
-S'ha creat una recopilació de mods per fer servir a les partides del grup per tal de potenciar i millorar el realisme, a l'hora que dóna més opcions al grup.
+S'ha creat una recopilació de mods per fer servir a les partides del grup per tal de potenciar i millorar el realisme, alhora que dona més opcions al grup.
 
-* Millora en el realisme.
+* Millora el realisme.
 * Millora el comportament de la IA del simulador.
-* Ofereix un parc armamentístic més ampli.
+* Ofereix un parc armamentístic immens.
+* Ofereix una quantitat immensa de vehicles.
 * Ofereix eines que faciliten la tasca del soldat.
 * Cobreix diferentes èpoques històriques.
 
-Amb aquestes pautes s'ha creat un estàndard pensat no sols per ampliar les coses que ens dóna el simulador, com més armes o equipament, si no també corregir les carències de realisme, dotar la IA d'un comportament més realista, i en definitiva, apropar l'Arma 3 en una experiència més propera al combat real.
-
 ### Instal·lació ArmA3Sync
 
-Per poder baixar els mods cal que us instal·leu l'ArmA3Sync. Aquest programa permet actualitzar els nostres mods automàticament, alhora que també serveix de llançador de l'A3. La part positiva és que el programa compara els fitxers de dels mods que teniu al vostre ordinador i els fitxers oficials que tenim al servidor, i si no coincideix, només baixa els fitxers que són diferents, inclosos els que faltin, i esborra els fitxers que sobren.
+Per poder baixar els mods cal que t'instalis l'ArmA3Sync. Aquest programa permet actualitzar els nostres mods automàticament, alhora que també serveix de llançador de l'ArmA 3. La part positiva és que el programa compara els fitxers dels mods que teniu al vostre ordinador amb els fitxers oficials que tenim al servidor, i si no coincideixen, només baixa els fitxers que son diferents, inclosos els que faltin, i esborra els fitxers que sobren.
 
 * Podeu baixar el programa des d'[aquest enllaç](http://www.armaholic.com/page.php?id=22199).
 * *Requereix [Java](http://www.java.com/en/download) per funcionar.*
 
-Un cop instal·lat el programa, si l'executeu es possible que us pregunti on teniu instal·lat l'ArmA 3. Li heu d'indicar la carpeta arrel de l'Arma 3, que normalment es troba dintre de la carpeta Steam `...\Steam\SteamApps\common\Arma 3`. Si heu de seleccionar l'executable del simulador, heu de seleccionar el de 64 bits, es a dir `arma3_x64.exe`.
+Un cop instal·lat el programa, si l'executes es possible que et pregunti on tens instal·lat l'ArmA 3. Li has d'indicar la carpeta arrel de l'Arma 3, que normalment es troba dintre de la carpeta Steam `...\Steam\SteamApps\common\Arma 3`. Si has de seleccionar l'executable del simulador, assegura't de seleccionar el de 64 bits, es a dir `arma3_x64.exe`.
 
 ### Configuració ArmA3Sync
 
 Un cop ho tinguem fet, passarem a afegir la carpeta on volem descarregar els addons. Aquesta carpeta pot estar a qualsevol lloc, inclús en un altre disc dur diferent al que teniu instal·lat l'ArmA 3.
 
-Per a fer-ho anirem a la pestanya `Addon Options` i dins del requadre `Addon Search Directories` li farem clic al botó `+` que hi ha a la dreta i seleccionarem el directori que vulguem. Si no sabeu quin seleccionar podeu seleccionar el mateix de l'ArmA 3.
+Per a fer-ho ves a la pestanya `Addon Options` i dins del requadre `Addon Search Directories` fes clic al botó `+` que hi ha a la dreta i selecciona el directori que vulguis. Si no saps quin seleccionar, pots seleccionar el mateix de l'ArmA 3.
 
 ![image](_imatges/addonoptions.png){: .center}
 
-Un cop fet això, passarem a establir les opcions de llançament, per això cal que cliqueu a la pestanya `Launcher Options`.
+Un cop fet això, passarem a establir les opcions de llançament, per això cal que facis clic a la pestanya `Launcher Options`.
 
 ![image](_imatges/launcheroptions.png){: .center}
 
-A les opcions de l'esquerra marqueu `No Splash Screen` i `Default World Empty`. I a la casella de la dreta, escriviu `-skipintro`.
+A les opcions de l'esquerra marca `No Splash Screen` i `Default World Empty`. I a la casella de la dreta, escriu `-skipintro`.
 
-Aprofiteu per verificar que l'executable de l'ArmA 3 sigui `arma3_x64.exe`.
+Aprofita per verificar que l'executable de l'ArmA 3 sigui `arma3_x64.exe`.
 
 ### Descàrrega
 
-A partir d'aqui haureu de configurar i descarregar tots els nostres repositoris de mods. Heu de repetir els passos següents per a cadascun dels següents repositoris:
+A partir d'aqui has de configurar i descarregar tots els nostres repositoris de mods. Has de repetir els passos següents per a cadascun dels següents repositoris:
 
 `http://www.cavallersdelcel.cat/magatzem/ArmA/repositori_a3sync/0_basic/.a3s/autoconfig`
 
@@ -131,11 +134,11 @@ A partir d'aqui haureu de configurar i descarregar tots els nostres repositoris 
 
 `http://www.cavallersdelcel.cat/magatzem/ArmA/repositori_a3sync/3_nam/.a3s/autoconfig`
 
-1. Aneu a la pestanya del final `Repositories`, i feu clic al primer botó, la creu blava.
+1. Ves a la pestanya del final `Repositories`, i fes clic al primer botó, la creu blava.
 
 ![image](_imatges/repositories1.png){: .center}
 
-2. Aquí heu de posar a la primera casella l'adreça del repositori i li doneu al botó `Import`.
+2. Aquí has de posar a la primera casella l'adreça del repositori i li dones al botó `Import`.
 
 ![image](_imatges/repositories2.png){: .center}
 
@@ -143,79 +146,88 @@ A partir d'aqui haureu de configurar i descarregar tots els nostres repositoris 
 
 ![image](_imatges/repositories3.png){: .center}
 
-4. Ara seleccioneu el repositori de la llista i feu clic al botó de la fletxa blava.
+4. Ara selecciona el repositori de la llista i fes clic al botó de la fletxa blava.
+
+Nota: Si ho desitges, pots marcar les caselles `Notify` i `Auto` si vols que t'avisi de quan hi ha una actualització i intenti actualitzar-te'l automaticament. Tingues en compte però, que sempre solem avisar amb antelació quan cal actualitzar.
 
 ![image](_imatges/repositories4.png){: .center}
 
-5. Un cop connectats al repositori, heu de fer clic al botó verd de `Check for addons` (comprova si teniu els mods descarregats), després comproveu que teniu seleccionada la carpeta on es descarregaran els mods, marqueu la casella `Select All` i seguidament fer clic al botó de `Play`.
+5. Un cop connectat al repositori, has de fer clic al botó verd de `Check for addons` (comprova si tens els mods descarregats), després comprova que tens seleccionada la carpeta on es descarregaran els mods, marca la casella `Select All` i seguidament fer clic al botó de `Play`.
 
 ![image](_imatges/repositories5.png){: .center}
 
-El procés de descàrrega es fitxer a fitxer, si teniu algun error podeu continuar en un altre moment i continuarà descarregant a on s'havia quedat.
+El procés de descàrrega es fitxer a fitxer, si tens algun error, pots esperar uns 10 minuts i tornar-ho a intentar. No et preocupis ja que continuarà descarregant a on s'havia quedat.
 
-Mes endavant quan toqui actualitzar els mods, haureu de seguir el mateix procés.
+!!! danger "Important"
+
+	Es habitual que el proces de descàrrega doni errors amb codi 503, això sol passar quan hi ha algú més a part de tu descarregant els mods. Com hem dit, espera 10 minuts i torna-ho a intentar fins que es descarregui tot. Si t'es impossible fer-ho posa't en contacte amb nosaltres.
+
+Mes endavant quan toqui actualitzar els mods, hauràs de seguir el mateix procés.
 
 ### Configuració dels modsets
 
-Un cop tingueu els mods descarregats es moment de configurar els modsets. Els modsets son una mena de "carpetes" virtuals que permeten agrupar els mods per grups. Això es important ja que no sempre carreguem els mateixos mods per a totes les missions.
+Un cop tinguis els mods descarregats es moment de configurar els modsets. Els modsets son una mena de "carpetes" virtuals que permeten agrupar els mods per grups. Això es important ja que no sempre carreguem els mateixos mods per a totes les missions.
 
-Per a configurar els modsets simplement heu d'anar a la pestanya `Addons` i fer clic al botó `Modsets`.
+Per a configurar els modsets simplement has d'anar a la pestanya `Addons` i fer clic al botó `Modsets`.
 
 ![image](_imatges/modsets1.png){: .center}
 
-Se us obrirà una finestra com la següent. Marqueu totes les caselles i feu clic a `Ok`.
+Se t'obrirà una finestra com la següent. Marca totes les caselles i fes clic a `Ok`.
 
 ![image](_imatges/modsets2.png){: .center}
 
+Ara fes clic dret al requadre de la dreta i crea un nou grup que es digui `Global Mobilization`.
+
+![image](_imatges/modsets3.png){: .center}
+
+Seguidament fes clic a la pestanya a ma dreta que posa `DLC` i arrossega el `GM` dins la carpeta que acabes de crear.
+
+![image](_imatges/modsets4.png){: .center}
+
+Ja gairebé ho tens!
+
 ## Pas 8: Instal·lació de l'ACRE2
 
-**Abans de seguir aquest pas heu d'assegurar-vos que teniu instal·lat el `TeamSpeak 3`.*
+**Abans de seguir aquest pas t'has d'assegurar que tens instal·lat el `TeamSpeak 3`.*
 
 L'ACRE2 es el mod de comunicacions (radio i veu) que utilitza el TeamSpeak 3 com a servidor de veu. 
 
 Per a poder fer-lo servir es necessari instal·lar un `plugin`. Aquest plugin s'instal·la automàticament quan arranquem el simulador amb el mod ACRE2 posat.
 
-Anirem a l'ArmA3Sync un altre cop i seleccionarem la casella del modset `Basic` i seguidament `Start Game`.
+Ves a l'ArmA3Sync un altre cop i sel·lecciona les caselles del modset `Basic` i `Global Mobilization`, i seguidament `Start Game`.
 
 ![image](_imatges/acre2_1.png){: .center}
 
-Espereu a que l'ArmA 3 carregui. En un moment donat us apareixerà el següent missatge conforme l'ACRE2 s'ha instal·lat correctament:
+Espera a que l'ArmA 3 carregui. En un moment donat t'apareixerà el següent missatge conforme l'ACRE2 s'ha instal·lat correctament:
 
 ![image](_imatges/acre2_2.png){: .center}
 
-Si us apareix un missatge d'error com aquest:
-
-![image](_imatges/acre2_3.png){: .center}
-
-Apagueu el TeamSpeak 3 i feu clic al botó `Retry` i us hauria de funcionar.
-
-Un cop instal·lat i sense apagar l'ArmA 3, obriu el TeamSpeak 3 i connecteu-vos al servidor de Cavallers del Cel.
+Un cop instal·lat i sense apagar l'ArmA 3, obre el TeamSpeak 3 i 
+connecta't al servidor de Cavallers del Cel.
 
 Servidor: ts.cavallersdelcel.cat
 
 Contrasenya: cat
 
-Fixeu-vos en l'apartat de la dreta, us ha d'apareixer quelcom simil·lar a la imatge:
+Fixa't en l'apartat de la dreta, t'ha d'apareixer quelcom simil·lar a la imatge:
 
 ![image](_imatges/acre2_4.png){: .center}
 
-Si es així ja ho tenim.
+Si es així, ja ho tens.
 
 ## Pas 9: Curs d'Infanteria Bàsic (CIB)
 
 Com a pas previ a poder participar a les nostres missions, tothom ha de superar el Curs d'Infanteria Bàsic de 2 hores de duració. Es tracta d'un curs sense exàmen on s'introdueix al jugador a la Simulació Militar i s'evalua el seu comportament i predisposició a aprendre.
 
-Per a passar el curs heu de contactar amb el personal del grup d'ArmA 3 a través del canal de Discord per a determinar el dia i hora que vagi millor.
-
-![image](_imatges/cib.png){: .center}
+Per a passar el curs has de contactar amb el personal del grup d'ArmA 3 a través del canal de Discord per a determinar el dia i hora que vagi millor.
 
 ## Pas 10: La primera missió
 
-Un cop superat el CIB se us donarà accés als canals privats de l'ArmA 3 al servidor de Discord.
+Un cop superat el CIB se't donarà accés als canals privats de l'ArmA 3 al servidor de Discord.
 
-Per a apuntar-vos a una missió, heu de consultar l'apartat `#arma-assistència`.
+Per apuntar-te a una missió, has de consultar l'apartat `#arma-assistència`.
 
-Al final de tot, veureu les missions programades per als següents dies. Per a marcar la vostra assisència heu de reaccionar al missatge.
+Al final de tot, veuràs les missions programades per als següents dies. Per a marcar la teva assisència has de reaccionar al missatge.
 
 ![image](_imatges/assistencia.png){: .center}
 
@@ -225,10 +237,16 @@ Al final de tot, veureu les missions programades per als següents dies. Per a m
 
 !!! danger "Important"
 
-	 Si no marqueu la vostra assistència a una missió, encara que tingueu una X i després canvieu d'opinió, pot ser que no es comptabilitzi la vostra assistència o bé que no tingueu lloc a la missió. Així que us recomanem que reviseu aquest apartat almenys un cop cada dos dies.
+	Si no marques la teva assistència a una missió, encara que tingui una X i després canviïs d'opinió, pot ser que no es comptabilitzi o bé que no tinguis lloc a la missió. Així que et recomanem que revisis aquest apartat almenys un cop cada dos dies.
 
-Un cop arribi el dia de la missió, entreu 15 minuts abans al TeamSpeak 3, repasseu que tingueu els mods ben actualitzats i que funcioni l'ACRE2. Si teniu algun dubte, us el resoldràn els companys mateixos abans d'entrar.
+Un cop arribi el dia de la missió, entra 15 minuts abans al TeamSpeak 3, repassa que tinguis els mods ben actualitzats i que funcioni l'ACRE2. Si tens algun dubte, t'el resoldràn els companys mateixos abans d'entrar.
 
 ## Ja ets tot un Marine!
+
+A partir d'ara ja ets un membre més del 1er Regiment Amfibi i podràs seguir forman-te amb els cursos que tenim preparats.
+
+Se t'obrirà una fulla de servei [aqui](http://cavallersdelcel.cat/forums/forums/membres.171/). I podràs lluïr que ets un membre allà on vagis amb la identitat especial de Cavallers del Cel integrada a l'ArmA 3.
+
+Et recomanem que vagis repassant poc a poc el nostre manual de l'[Entrenament Bàsic de Combat (EBC)](http://arma.cavallersdelcel.cat/ebc/).
 
 ![image](_imatges/marines.jpg){: .center}
