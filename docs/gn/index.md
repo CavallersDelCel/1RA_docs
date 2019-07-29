@@ -34,11 +34,11 @@ Ja ho tens tot? Doncs continuem.
 
 ## Pas 2: Fòrums
 
-Registra't als nostres fòrums: [http://www.cavallersdelcel.cat/forums](http://www.cavallersdelcel.cat/forums)
+La comunitat disposa d'uns potents fòrums on pengem tota la informació sobre missions, cursos, documentació, etc.
 
-Presenta't a la comunitat sencera: [http://cavallersdelcel.cat/forums/forums/%EF%BB%BFallistament.5/](http://www.cavallersdelcel.cat/forums)
-
-Presenta't al grup d'ArmA 3: [http://cavallersdelcel.cat/forums/forums/allistament.36/](http://www.cavallersdelcel.cat/forums)
+1. [Registra't als nostres fòrums](http://www.cavallersdelcel.cat/forums)
+2. [Presenta't a la comunitat sencera](http://cavallersdelcel.cat/forums/forums/%EF%BB%BFallistament.5/)
+3. [Presenta't al grup d'ArmA 3](http://cavallersdelcel.cat/forums/forums/allistament.36/)
 
 Ja ho has fet? Seguim doncs.
 
@@ -46,7 +46,7 @@ Ja ho has fet? Seguim doncs.
 
 Per a les comunicacions diàries i habituals utilitzem [Discord](https://discordapp.com/), que es un xat semblant a una barreja entre Whatsapp i Skype. El pots instal·lar al PC i al mòbil i també disposa de versió de navegador.
 
-El nostre canal de Discord: [https://discord.gg/4RGJdTv](http://www.cavallersdelcel.cat/forums)
+El nostre canal de Discord: [https://discord.gg/4RGJdTv](https://discord.gg/4RGJdTv)
 
 Es important que abans de continuar, et connectis al canal de Discord i et presentis.
 
@@ -60,22 +60,28 @@ Per altra banda, abans de participar a les nostres missions es imprescindible qu
 
 ## Pas 5: Perfil
 
+Obre l'ArmA 3.
+
 Dins el menú principal del simulador, ves al botó de perfil que hi ha a dalt a la
 dreta (és la icona d’un cap).
 
 ![image](_imatges/perfil1.png){: .center}
 
-Seleccioneu el vostre perfil i se us obrirà una finestra com la següent.
+Selecciona el teu perfil i se t'obrirà una finestra com la següent.
 
 ![image](_imatges/perfil2.png){: .center}
 
-Al perfil per defecte no se li pot canviar el nom, així que haureu de crear un de nou i posar-li el `CC_` davant, com en la imatge anterior.
+Al perfil per defecte no se li pot canviar el nom, així que hauràs de crear un de nou i posar-li el `CC_` davant, com en la imatge anterior.
 
-Un cop fet això feu clic sobre `Unit` i s'obrirà la pantalla següent.
+!!! danger "Important"
+
+	No li posis ni ulleres ni maquillatge al personatge, ja que això ho podràs fer a cada missió.
+
+Un cop fet això fes clic sobre `Unit` i s'obrirà la pantalla següent.
 
 ![image](_imatges/perfil3.png){: .center}
 
-Has de copiar el numero que hi ha destacat en vermell, seguidament vas a [aqui](http://cavallersdelcel.cat/forums/threads/id-jugador-url-squad-de-larma-3.425/) i deixes un missatge amb el número.
+Has de copiar el nombre que hi ha destacat en vermell, seguidament vas a [aqui](http://cavallersdelcel.cat/forums/threads/id-jugador-url-squad-de-larma-3.425/) i deixes un missatge amb el mateix.
 
 Mes endavant se't donarà un enllaç que hauràs d'enganxar al camp `SQUAD XML`, però de moment no et preocupis per això. Pots passar al següent pas.
 
@@ -189,7 +195,7 @@ Ja gairebé ho tens!
 
 ## Pas 8: Instal·lació de l'ACRE2
 
-**Abans de seguir aquest pas t'has d'assegurar que tens instal·lat el `TeamSpeak 3`.*
+*Abans de seguir aquest pas t'has d'assegurar que tens instal·lat el `TeamSpeak 3`.*
 
 L'ACRE2 es el mod de comunicacions (radio i veu) que utilitza el TeamSpeak 3 com a servidor de veu.
 
