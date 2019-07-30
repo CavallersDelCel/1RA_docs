@@ -1,0 +1,19 @@
+# Pas 1: Requisits tècnics
+
+Cal tenir una copia legal dels següents jocs i expansions:
+
+* [ArmA 3](https://store.steampowered.com/app/107410/Arma_3/)
+* [ArmA 3 Apex](https://store.steampowered.com/app/395180/Arma_3_Apex/)
+* [ArmA 3 Global Mobilization](https://store.steampowered.com/app/1042220/Arma_3_Creator_DLC_Global_Mobilization__Cold_War_Germany/)
+
+Necessitaràs també:
+
+* [TeamSpeak 3](https://www.teamspeak.com/en/downloads/) instal·lat (versió 64 bits)
+* Micròfon i auriculars funcionals.
+* PC que compleixi els requisits mínims de l'ArmA 3 (consulta pàgina de Steam)
+* Connexió a Internet estable.
+* Com a mínim 150 Gb d'espai de disc lliures.
+
+Ja ho tens tot? Doncs continuem.
+
+[Següent pas >](http://arma.cavallersdelcel.cat/gn/pas2)

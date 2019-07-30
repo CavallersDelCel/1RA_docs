@@ -110,6 +110,17 @@ nav:
 - Benvinguts: 'index.md'
 - Guia pel nous:
     - 'Benvingut': 'gn/index.md'
+    - 'Pas 1: Requisits tècnics': 'gn/pas1.md'
+    - 'Pas 2: Fòrums': 'gn/pas2.md'
+    - 'Pas 3: Discord': 'gn/pas3.md'
+    - 'Pas 4: Funcionament': 'gn/pas4.md'
+    - 'Pas 5: Perfil': 'gn/pas5.md'
+    - 'Pas 6: Bootcamp': 'gn/pas6.md'
+    - 'Pas 7: Descàrrega de mods': 'gn/pas7.md'
+    - 'Pas 8: Instal·lació ACRE2': 'gn/pas8.md'
+    - 'Pas 9: CIB': 'gn/pas9.md'
+    - 'Pas 10: Primera missió': 'gn/pas10.md'
+    - 'Ja ets tot un Marine': 'gn/marine.md'
     - 'Notes finals':
         - 'Crèdits': 'gn/notes/credits.md'
 - Entrenament Bàsic de Combat:
