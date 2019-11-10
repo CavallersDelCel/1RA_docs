@@ -37,7 +37,7 @@ El Javelin disposa d'una única ojiva anti-tanc amb efecte tandem.
 * Observar objectiu amb el CLU (apuntar).
 * Canviar a mode FLIR ++n++.
 * Fer zoom al màxim sobre l'objectiu ++num-minus+num-plus++.
-* Sel·leccionar mode de tir directe o "top-down" ++ctrl+tab++.
+* Sel·leccionar mode de tir directe (DIR) o "top-down" (TOP) ++ctrl+tab++.
 * Fixar el blanc ++alt+spc++.
 * Sonarà un soroll i la pantalla es focalitzarà a l'objectiu. Un cop fixat apareixeràn dues linies perpendiculars sobre l'objectiu i el sò canviarà.
 * Disparar.
@@ -47,3 +47,5 @@ El Javelin disposa d'una única ojiva anti-tanc amb efecte tandem.
 * No es poden fixar cossos freds, han de desprendre calor.
 * Tècnicament es possible fixar soldats individuals i inclús animals.
 * El mode "top-down" es especialment útil contra MBT, ja que els ataca pel punt més dèbil.
+
+![image](../_imatges/javelinclu.jpg){: .center}

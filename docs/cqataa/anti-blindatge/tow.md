@@ -7,37 +7,33 @@ El TOW es un míssil antiblindatge filo-guiat d'ús col·lectiu de tipus SACLOS.
 | **Característiques**        | **Descripció**     |
 |-----------------------------|--------------------|
 | **Llançador**               |                    |
-| -- **Longitud**             | 120 cm             |
-| -- **Pes**                  | 18,2 kg            |
+| -- **Longitud**             | 116 cm             |
+| -- **Pes**                  | 21,4 kg            |
 | **Projectil**               |                    |
-| -- **Calibre**              | 127 mm             |
-| -- **Velocitat de sortida** | -                  |
-| -- **Longitud**             | -                  |
-| -- **Pes**                  | -                  |
+| -- **Calibre**              | 152 mm             |
+| -- **Velocitat de sortida** | 320 m/s            |
+| -- **Longitud**             | 116 cm             |
+| -- **Pes**                  | 21,4 kg            |
 | -- **Rang mínim**           |                    |
 | -------- **Entrenament**    | 100 metres         |
 | -------- **Combat**         | 75 metres          |
 | -------- **Armat**          | 75 metres          |
-| -- **Rang màxim**           | 4.750 metres       |
-| -- **Rang màxim efectiu**   | 4.750 metres       |
+| -- **Rang màxim**           | 3.750 metres       |
+| -- **Rang màxim efectiu**   | 3.750 metres       |
 
-## Projectil
+## Projectils
 
-El Javelin disposa d'una única ojiva anti-tanc amb efecte tandem.
+Diposem de dos tipus de míssil TOW, el BGM-71E que es antiblindatge amb ojiva tandem i el BGM-71H que es termobàric d'alta potència.
 
-## Ús del Javelin
+## Ús del TOW
 
-* Seleccionar l'FGM-48 Javelin.
-* Observar objectiu amb el CLU (apuntar).
-* Canviar a mode FLIR ++n++.
-* Fer zoom al màxim sobre l'objectiu ++num-minus+num-plus++.
-* Sel·leccionar mode de tir directe o "top-down" ++ctrl+tab++.
-* Fixar el blanc ++alt+spc++.
-* Sonarà un soroll i la pantalla es focalitzarà a l'objectiu. Un cop fixat apareixeràn dues linies perpendiculars sobre l'objectiu i el sò canviarà.
-* Disparar.
+* Entrem com a artillers del sistema TOW (menú contextual).
+* Canviem el tipus de míssil si escau (menú contextual).
+* Apuntem.
+* El mode de zoom també activa el mode termal si el necessitem ++num-minus+num-plus++.
+* Centrem la mira sobre l'objectiu i disparem.
+* Mentres el missil es a l'aire, movem la mira sobre l'objectiu per ajustar la trajectòria.
 
-### Notes
+**Nota**: cal ajustar la trajectòria del míssil amb celeritat ja que normalment el temps sol ser de pocs segons (depenent de la distància de l'objectiu). Els ajustaments han de ser suaus, per evitar que el míssil es desvii massa.
 
-* No es poden fixar cossos freds, han de desprendre calor.
-* Tècnicament es possible fixar soldats individuals i inclús animals.
-* El mode "top-down" es especialment útil contra MBT, ja que els ataca pel punt més dèbil.
+![image](../_imatges/towsaclos.jpg){: .center}

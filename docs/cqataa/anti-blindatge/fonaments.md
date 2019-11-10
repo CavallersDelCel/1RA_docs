@@ -41,7 +41,7 @@ S'ha d'evitar disparar:
 
 ## Contramesures
 
-* **Blindatge reactiu**: Els sistemes de blindatge reactiu es basa en una especie de capses de forma quadrada o rectangular que van enganxades a la superfície del blindat. Aquestes capses compten amb un sistema de sensors que detecta quan un projectil s'acosta i detonen una petita càrrega explosiva direccional que destrueix el projectil quan aquest es troba a una distància segura (de forma simil·lar a com funciona una mina Claymore).
+* **Blindatge reactiu**: Els sistemes de blindatge reactiu es basen en una especie de capses de forma quadrada o rectangular que van enganxades a la superfície del blindat. Aquestes capses compten amb un sistema de sensors que detecta quan un projectil s'acosta i detonen una petita càrrega explosiva direccional que destrueix el projectil quan aquest es troba a una distància segura (de forma simil·lar a com funciona una mina Claymore).
 Per a superar aquest tipus de blindatge i arribar a tocar la xapa, s'utilitzen projectils amb doble ojiva en tandem o projectils termobàrics d'alta potència, en el cas dels projectils en tandem, la primera càrrega inutilitza el blinatge reactiu mentre que la segona penetra directament sobre el blindatge nu.
 Cal entendre que cada capsa de blinatge reactiu, un cop utilitzada deixa un forat per on podria penetrar una ojiva HEAT estàndard.
 

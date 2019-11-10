@@ -153,6 +153,28 @@ nav:
         - 'Protocol operatiu de comunicació "POC"': 'ebc/notes/poc.md'
         - 'Bibliografia': 'ebc/notes/bibliografia.md'
         - 'Crèdits': 'ebc/notes/credits.md'
+- Curs de Qualificació AT/AA:
+    - 'Sobre el manual': 'cqataa/index.md'
+    - 'Introducció': 
+        - 'Introducció': 'cqataa/introduccio/introduccio.md'
+        - 'Rols': 'cqataa/introduccio/rols.md'
+        - 'Llança-coets vs Llança-missils': 'cqataa/introduccio/tipus.md'
+    - 'Anti-blindatge': 
+        - 'Fonaments anti-blindatge': 'cqataa/anti-blindatge/fonaments.md'
+        - 'Tipus ojives': 'cqataa/anti-blindatge/ojives.md'
+        - 'M136 AT-4': 'cqataa/anti-blindatge/at4.md'
+        - 'M72 LAW': 'cqataa/anti-blindatge/m72.md'
+        - 'M3 MAAWS (Carl Gustaf)': 'cqataa/anti-blindatge/carlgustaf.md'
+        - 'Mk. 153 SMAW': 'cqataa/anti-blindatge/smaw.md'
+        - 'FGM-148 Javelin': 'cqataa/anti-blindatge/javelin.md'
+        - 'BGM-71 TOW': 'cqataa/anti-blindatge/tow.md'
+        - 'RPG-7': 'cqataa/anti-blindatge/rpg.md'
+    - 'Anti-aeri':
+        - 'Fonaments anti-aeris': 'cqataa/anti-aeri/fonaments.md'
+        - 'FIM-92 Stinger': 'cqataa/anti-aeri/stinger.md'
+    - 'Notes finals':
+        - 'Bibliografia': 'cqataa/notes/bibliografia.md'
+        - 'Crèdits': 'cqataa/notes/credits.md'
 - Curs d'Especialització en Franctirador:
     - 'Sobre el manual': 'cef/index.md'
     - 'Inici': 
