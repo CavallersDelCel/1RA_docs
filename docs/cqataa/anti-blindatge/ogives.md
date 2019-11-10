@@ -14,4 +14,4 @@ Una ogiva, es la part d'un projectil que porta la càrrega explosiva, n'hi ha de
 
 **Tandem**: Es tracta realment de projectils que contenen dues o més ogives consecutives que detonen en tandem, una darrera l'altra. Actualment s'utilitzen principalment contra blindats pesats amb blindatge reactiu.
 
-![image](../_imatges/ogivesrpg.jpg){: .center}
+![image](../_imatges/ojivesrpg.jpg){: .center}
