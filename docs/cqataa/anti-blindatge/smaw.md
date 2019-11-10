@@ -23,7 +23,7 @@ El Mark 153 Shoulder-Launched Multipurpose Assault Weapon, més conegut com SMAW
 
 ## Projectils
 
-L'SMAW disposa de tres tipus d'ojives: HEAA (HEAT), HEDP i NE (Termobàric)
+L'SMAW disposa de tres tipus d'ogives: HEAA (HEAT), HEDP i NE (Termobàric)
 
 ## Ús de l'SMAW
 
@@ -32,7 +32,7 @@ L'SMAW disposa de tres tipus d'ojives: HEAA (HEAT), HEDP i NE (Termobàric)
 * Posar el fiador.
 * Canviar al mode Spotting Rifle ++f++.
 * Recarregar la munició de l'Spotting Rifle ++r++.
-* Calibrar i apuntar.
+* Calibrar i apuntar amb ++page-up++ i ++page-down++.
 * Disparar amb l'Spotting Rifle.
 * Corregir el tret si escau.
 * Canviar al mode Mk. 153 SMAW ++f++.

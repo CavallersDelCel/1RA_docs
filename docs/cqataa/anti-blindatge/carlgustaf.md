@@ -23,12 +23,13 @@ El M3 Multi-role Anti-armour Anti-tank Weapon System (MAAWS), designació americ
 
 ## Projectils
 
-L'M3 disposa de 3 tipus d'ojives: HE, HEAT i HEDP.
+L'M3 disposa de 3 tipus d'ogives: HE, HEAT i HEDP.
 
 ## Ús de l'M3
 
 * Seleccionar l'M3.
 * Recarregar el projectil amb ++r++.
-* Calibrar i apuntar amb ++page-up++ i ++page-down++.
+* Calibrar amb ++page-up++ i ++page-down++.
+* Apuntar amb la mira telescòpica.
 * Treure el fiador.
 * Disparar.

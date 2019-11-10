@@ -29,7 +29,7 @@ Una de les seves principals peculiaritats i que el fan realment rellevant, es la
 
 ## Projectil
 
-El Javelin disposa d'una única ojiva anti-tanc amb efecte tandem.
+El Javelin disposa d'una única ogiva anti-tanc amb efecte tandem.
 
 ## Ús del Javelin
 

@@ -23,7 +23,7 @@ El TOW es un míssil antiblindatge filo-guiat d'ús col·lectiu de tipus SACLOS.
 
 ## Projectils
 
-Diposem de dos tipus de míssil TOW, el BGM-71E que es antiblindatge amb ojiva tandem i el BGM-71H que es termobàric d'alta potència.
+Diposem de dos tipus de míssil TOW, el BGM-71E que es antiblindatge amb ogiva tandem i el BGM-71H que es termobàric d'alta potència.
 
 ## Ús del TOW
 
