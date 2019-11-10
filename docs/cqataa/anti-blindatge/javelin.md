@@ -36,7 +36,7 @@ El Javelin disposa d'una única ojiva anti-tanc amb efecte tandem.
 * Seleccionar l'FGM-48 Javelin.
 * Observar objectiu amb el CLU (apuntar).
 * Canviar a mode FLIR ++n++.
-* Fer zoom al màxim sobre l'objectiu ++num-minus+num-plus++.
+* Fer zoom al màxim sobre l'objectiu ++num-plus++.
 * Sel·leccionar mode de tir directe (DIR) o "top-down" (TOP) ++ctrl+tab++.
 * Fixar el blanc ++alt+spc++.
 * Sonarà un soroll i la pantalla es focalitzarà a l'objectiu. Un cop fixat apareixeràn dues linies perpendiculars sobre l'objectiu i el sò canviarà.

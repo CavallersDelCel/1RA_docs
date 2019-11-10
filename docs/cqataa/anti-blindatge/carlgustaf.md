@@ -29,6 +29,6 @@ L'M3 disposa de 3 tipus d'ojives: HE, HEAT i HEDP.
 
 * Seleccionar l'M3.
 * Recarregar el projectil amb ++r++.
-* Calibrar i apuntar amb ++page-up++++page-down++.
+* Calibrar i apuntar amb ++page-up++ i ++page-down++.
 * Treure el fiador.
 * Disparar.

@@ -39,6 +39,6 @@ Existeixen altres variants antigues que ja no estan en producció.
 
 * Seleccionar l'RPG-7.
 * Recarregar el projectil amb ++r++.
-* Calibrar i apuntar amb ++page-up++++page-down++ (o fent servir una mira PGO).
+* Calibrar i apuntar amb ++page-up++ i ++page-down++ (o fent servir una mira PGO).
 * Treure el fiador.
 * Disparar.

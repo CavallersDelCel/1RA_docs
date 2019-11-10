@@ -30,7 +30,7 @@ Diposem de dos tipus de míssil TOW, el BGM-71E que es antiblindatge amb ojiva t
 * Entrem com a artillers del sistema TOW (menú contextual).
 * Canviem el tipus de míssil si escau (menú contextual).
 * Apuntem.
-* El mode de zoom també activa el mode termal si el necessitem ++num-minus+num-plus++.
+* El mode de zoom també activa el mode termal si el necessitem ++num-minus++ i ++num-plus++.
 * Centrem la mira sobre l'objectiu i disparem.
 * Mentres el missil es a l'aire, movem la mira sobre l'objectiu per ajustar la trajectòria.
 
