@@ -10,7 +10,7 @@ Necessitaràs també:
 
 * [TeamSpeak 3](https://www.teamspeak.com/en/downloads/) instal·lat (versió 64 bits)
 * Micròfon i auriculars funcionals.
-* PC que compleixi els requisits mínims de l'ArmA 3 (consulta pàgina de Steam)
+* **PC amb Windows** que compleixi els requisits mínims de l'ArmA 3 (fes clic [aqui](https://arma3.com/requirements) per veure els requisits).
 * Connexió a Internet estable.
 * Com a mínim 150 Gb d'espai de disc lliures.
 
