@@ -1,4 +1,4 @@
-# **Sobre el manual del EBC**
+# **Sobre el manual del CRB**
 
 El manual s'ha dissenyat per aplicar-ho a l'acadèmia del 1er Regiment Amfibi. És un manual progressiu en aniràs aprenent en cada moment el material necessari per poder continuar amb els capítols següents.
 
