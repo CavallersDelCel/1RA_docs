@@ -8,7 +8,7 @@ La nostra especialització és simular unitats de **reconeixement amfibi**, en e
 
 ## Horaris
 
-Fem missions oficials internes regulars cada dimecres de 22h a 00h (CET) i els dissabtes de 22h a 02h (CET). L'Assistència no es obligatòria per cada activitat del grup, però sí que es demana un compromís mínim d'assistència.
+Fem missions oficials internes regulars cada **dimecres de 21.30h a 23.30h (CET)** i els **dissabtes de 22.00h a 01.30h (CET)**. L'Assistència no es obligatòria per cada activitat del grup, però sí que es demana un compromís mínim d'assistència.
 
 ## Requisits bàsics
 

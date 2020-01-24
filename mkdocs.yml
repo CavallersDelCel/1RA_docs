@@ -180,9 +180,9 @@ nav:
         - '4.2. Inserció amfibia': 'crb/fase4/insercioamfibia.md'
         - '4.3. Inserció aèria': 'crb/fase4/insercioaeria.md'
     - 'Fase 5 - Evasió i supervivència':
-        - '5.1. Navegació avançada': 'crb/fase4/navegacio.md'
-        - '5.2. Evasió': 'crb/fase4/teoricaevasio.md'
-        - '5.3. Prova final': 'crb/fase4/provafinal.md'
+        - '5.1. Navegació avançada': 'crb/fase5/navegacio.md'
+        - '5.2. Evasió': 'crb/fase5/teoricaevasio.md'
+        - '5.3. Prova final': 'crb/fase5/provafinal.md'
     - 'Notes finals':
         - 'Bibliografia': 'crb/notes/bibliografia.md'
         - 'Crèdits': 'crb/notes/credits.md'
