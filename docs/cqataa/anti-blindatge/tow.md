@@ -23,14 +23,24 @@ El TOW es un míssil antiblindatge filo-guiat d'ús col·lectiu de tipus SACLOS.
 
 ## Projectils
 
-Diposem de dos tipus de míssil TOW, el BGM-71E que es antiblindatge amb ogiva tandem i el BGM-71H que es termobàric d'alta potència.
+Disposem d'una gran quantitat de missils amb diferents ogives. Els principals son:
+
+* BGM-71A: Estàndard HEAT (70s).
+* BGM-71B: Anterior amb mes abast (80s).
+* BGM-71C: Anterior millorat ITOW (90s).
+* BGM-71D: Guiatge millorat (HEAT).
+* BGM-71E: Ogiva tandem (el mes habitual).
+* BGM-71F: Capacitat d'atac "top-down" AERO.
+* BGM-71H: Ogiva termobàrica (Bunker Buster).
 
 ## Ús del TOW
 
-* Entrem com a artillers del sistema TOW (menú contextual).
-* Canviem el tipus de míssil si escau (menú contextual).
+* Muntem el tripode M220 amb interacció d'ACE (CSW).
+* Muntem el sistema de guiatge sobre el trípode amb interacció d'ACE (CSW).
+* Carreguem el missil TOW desitjat amb interacció d'ACE (Ammo handling / CSW).
+* Entrem com a artillers del sistema TOW amb interacció d'ACE.
 * Apuntem.
-* El mode de zoom també activa el mode termal si el necessitem ++num-minus++ i ++num-plus++.
+* El mode de zoom també activa el mode FLIR si el necessitem ++num-minus++ i ++num-plus++.
 * Centrem la mira sobre l'objectiu i disparem.
 * Mentres el missil es a l'aire, movem la mira sobre l'objectiu per ajustar la trajectòria.
 

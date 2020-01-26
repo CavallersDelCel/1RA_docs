@@ -202,6 +202,7 @@ nav:
         - 'FGM-148 Javelin': 'cqataa/anti-blindatge/javelin.md'
         - 'BGM-71 TOW': 'cqataa/anti-blindatge/tow.md'
         - 'RPG-7': 'cqataa/anti-blindatge/rpg.md'
+        - 'M47 Super Dragon': 'cqataa/anti-blindatge/dragon.md'
     - 'Anti-aeri':
         - 'Fonaments anti-aeris': 'cqataa/anti-aeri/fonaments.md'
         - 'FIM-92 Stinger': 'cqataa/anti-aeri/stinger.md'
