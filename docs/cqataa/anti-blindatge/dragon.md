@@ -29,7 +29,7 @@ El sistema conté el propi missil M47 Dragon amb capacitat HEAT. Un cop disparat
 
 * Muntem el bipode del Dragon amb interacció de l'ACE (CSW).
 * Muntem el sistema de guiatge SU-36/P (CSW).
-* Entrem com a artillers del sistema TOW amb interacció d'ACE.
+* Entrem com a artillers del sistema amb interacció d'ACE.
 * Apuntem.
 * Centrem la mira sobre l'objectiu i disparem.
 * Mentres el missil es a l'aire, movem la mira sobre l'objectiu per ajustar la trajectòria.
