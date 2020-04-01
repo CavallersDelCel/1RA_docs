@@ -12,7 +12,7 @@ A continuació detallem les característiques tècniques principals de la AN/PRC
 |-----------------------------|--------------------|
 | **Canals**                  | 960 en dues bandes |
 | **Freqüències**             | 30.00 a 52.95 i 53.00 a 75.95 MHz    |
-| **Tipus de servei**         | Radio de camp de rack de llarg abast analògica         |
+| **Tipus de servei**         | Radio de motxilla de curt abast analògica         |
 | **Pes**                     | 6.2 kg             |
 | **Abast en zona urbana**    | 1-3 km             |
 | **Abast a camp obert**      | 3-5 km             |
