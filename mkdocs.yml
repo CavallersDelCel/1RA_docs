@@ -237,6 +237,22 @@ nav:
     - 'Notes finals':
         - 'Bibliografia': 'cef/notes/bibliografia.md'
         - 'Crèdits': 'cef/notes/credits.md'
+- Manual ACRE2:
+    - 'Sobre el manual': 'acre2/index.md'
+    - 'General': 
+        - 'Introducció': 'acre2/general/introduccio.md'
+        - 'Controls avançats': 'acre2/general/controls.md'
+    - 'Terminals': 
+        - 'AN/PRC-152': 'acre2/terminals/prc152.md'
+        - 'AN/PRC-117F': 'acre2/terminals/prc117.md'
+        - 'AN/PRC-77': 'acre2/terminals/prc77.md'
+        - 'Compatibilitat': 'acre2/terminals/compatibilitat.md'
+    - 'Comunicació amb vehicles': 
+        - 'Racks': 'acre2/vehicles/racks.md'
+        - 'Intercom': 'acre2/vehicles/intercom.md'
+    - 'Notes': 
+        - 'Bibliografia': 'acre2/notes/bibliografia.md'
+        - 'Crèdits': 'acre2/notes/credits.md'
 
 
 # Google Analytics
