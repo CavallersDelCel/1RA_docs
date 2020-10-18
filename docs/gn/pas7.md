@@ -46,9 +46,7 @@ A partir d'aquí has de configurar i descarregar tots els nostres repositoris de
 
 `http://www.cavallersdelcel.cat/magatzem/ArmA/repositori_a3sync/2_moderna/.a3s/autoconfig`
 
-`http://www.cavallersdelcel.cat/magatzem/ArmA/repositori_a3sync/3_nam/.a3s/autoconfig`
-
-`http://www.cavallersdelcel.cat/magatzem/ArmA/repositori_a3sync/4_segona/.a3s/autoconfig`
+`http://www.cavallersdelcel.cat/magatzem/ArmA/repositori_a3sync/3_historica/.a3s/autoconfig`
 
 1- Has d'anar a la pestanya del final, `Repositories`. Fes clic al primer botó, el signe + blau.
 
