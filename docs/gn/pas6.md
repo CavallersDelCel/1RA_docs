@@ -1,9 +1,9 @@
-# Pas 6: Bootcamp (Opcional)
+# Pas 6: Bootcamp
 
-Si no has jugat mai a l'ArmA 3, et recomanem que facis la mini-campanya introductòria "Bootcamp". A més, si pots, els entrenaments virtuals. Allà aprendràs a utilitzar els controls d'una manera pràctica i divertida.
+Si la teva experiència a l'ArmA 3 es baixa, hauràs de fer la mini-campanya introductòria "Bootcamp" i els entrenaments virtuals. Allà aprendràs a utilitzar els controls d'una manera pràctica i divertida.
 
 ![image](_imatges/bootcamp.png){: .center}
 
-Aquest pas és opcional. No cal que esperis a completar-lo per a continuar amb els següents passos.
+Aquest pas es obligatori per a tots els jugadors amb poca o nul·la experiència a l'ArmA 3 i recomanat per a la resta. Pensa que si vas fluix amb els controls bàsics del simulador, no superaràs la prova inicial.
 
 [Següent pas >](http://arma.cavallersdelcel.cat/gn/pas7)
