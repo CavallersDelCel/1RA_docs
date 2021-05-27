@@ -15,7 +15,7 @@ Per poder descarregar els mods cal que instal·lis l'aplicació ArmA3Sync. Aques
 
 Un dels seus principals atractius, és que compara els fitxers dels teu ordinador amb els fitxers oficials del servidor. Si no coincideixen, només descarrega els fitxers que son diferents.
 
-* Podeu descarregar l'Arma3Sync a través d'[aquest enllaç](http://www.armaholic.com/page.php?id=22199).
+* Podeu descarregar l'Arma3Sync a través d'[aquest enllaç](http://arma.cavallersdelcel.cat/arma3sync/arma3sync-installer.exe).
 * *Requereix [Java](http://www.java.com/en/download) per funcionar.*
 
 Instal·lat el programa, quan l'executis és possible que et pregunti on tens instal·lat l'ArmA 3. Li has d'indicar la carpeta arrel de l'Arma 3, sovint es troba dintre de la carpeta Steam `...\Steam\SteamApps\common\Arma 3`. Si has de seleccionar l'executable del simulador, assegura't de seleccionar el de 64 bits, es a dir `arma3_x64.exe`.
