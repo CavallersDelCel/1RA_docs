@@ -6,6 +6,7 @@ Cal tenir una copia legal dels següents jocs i expansions:
 * [ArmA 3 Apex](https://store.steampowered.com/app/395180/Arma_3_Apex/) (DLC)
 * [ArmA 3 Global Mobilization](https://store.steampowered.com/app/1042220/Arma_3_Creator_DLC_Global_Mobilization__Cold_War_Germany/) (DLC)
 * [ArmA 3 S.O.G Prairie Fire](https://store.steampowered.com/app/1227700/Arma_3_Creator_DLC_SOG_Prairie_Fire/) (DLC)
+* [ArmA 3 Western Sahara](https://store.steampowered.com/app/1681170/Arma_3_Creator_DLC_Western_Sahara/) (DLC)
 
 Necessitaràs també:
 

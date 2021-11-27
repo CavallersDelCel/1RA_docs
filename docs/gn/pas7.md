@@ -90,13 +90,17 @@ S'obrirà una finestra com la següent. Marca totes les caselles i clica `Ok`.
 
 ![image](_imatges/modsets2.png){: .center}
 
-Fes clic dret al requadre de la dreta i crea dos nous grups que es diguin `GM` i `PF`.
+Fes clic dret al requadre de la dreta i crea tres nous grups que es diguin `GM`, `PF` i `WS`.
 
 ![image](_imatges/modsets3.png){: .center}
 
 Seguidament fes clic a la pestanya `DLC` (requadre de l'esquerra) i arrossega `GM` dins el grup `GM` i `vn` dins el grup `PF`.
 
 ![image](_imatges/modsets4.png){: .center}
+
+Fes el mateix amb el `WS`:
+
+![image](_imatges/ws.png){: .center}
 
 Ja gairebé ho tens!
 
