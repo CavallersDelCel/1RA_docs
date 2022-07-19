@@ -30,7 +30,7 @@ repo_url: https://github.com/CavallersDelCel/1RA_docs
 edit_uri: "https://github.com/CavallersDelCel/1RA_docs/tree/master/docs"
 
 # Copyright
-copyright: 'Copyright &copy; 2010 - 2018 Cavallers del Cel'
+copyright: 'Copyright &copy; 2010 - 2022 Cavallers del Cel'
 
 # Configuration
 theme:
@@ -153,39 +153,6 @@ nav:
         - 'Protocol operatiu de comunicació "POC"': 'ebc/notes/poc.md'
         - 'Bibliografia': 'ebc/notes/bibliografia.md'
         - 'Crèdits': 'ebc/notes/credits.md'
-- Curs Recon Bàsic (WIP):
-    - 'Sobre el CRB': 'crb/index.md'
-    - 'Fase 1 - Introducció': 
-        - '1.1. Història del grup': 'crb/fase1/historia.md'
-        - '1.2. Equip recon': 'crb/fase1/equiprecon.md'
-        - '1.3. Operacions': 'crb/fase1/operacions.md'
-        - '1.4. Suports': 'crb/fase1/suports.md'
-        - '1.5. Comunicacions': 'crb/fase1/comunicacions.md'
-        - '1.6. Armament bàsic': 'crb/fase1/armamentbasic.md'
-        - '1.7. Armament avançat': 'crb/fase1/armamentavançat.md'
-        - '1.8. Demolicions i AT': 'crb/fase1/demolicions.md'
-        - '1.9. Primers auxilis': 'crb/fase1/primersauxilis.md'
-    - 'Fase 2 - Combat bàsic':
-        - '2.1. Patrulles a peu': 'crb/fase2/patrullespeu.md'
-        - '2.2. Maniobres bàsiques': 'crb/fase2/maniobresbasiques.md'
-        - '2.3. Maniobres ofensives': 'crb/fase2/maniobresofensives.md'
-        - '2.4. Maniobres defensives': 'crb/fase2/maniobresdefensives.md'
-        - '2.5. Maniobres nocturnes': 'crb/fase2/maniobresnocturnes.md'
-    - 'Fase 3 - Combat urbà':
-        - '3.1. Informació sensible': 'crb/fase3/intel.md'
-        - '3.2. Moviment urbà': 'crb/fase3/movimenturba.md'
-        - '3.3. Combat proper': 'crb/fase3/cqb.md'
-    - 'Fase 4 - Combat especialitzat':
-        - '4.1. Comboi de vehicles': 'crb/fase4/comboi.md'
-        - '4.2. Inserció amfibia': 'crb/fase4/insercioamfibia.md'
-        - '4.3. Inserció aèria': 'crb/fase4/insercioaeria.md'
-    - 'Fase 5 - Evasió i supervivència':
-        - '5.1. Navegació avançada': 'crb/fase5/navegacio.md'
-        - '5.2. Evasió': 'crb/fase5/teoricaevasio.md'
-        - '5.3. Prova final': 'crb/fase5/provafinal.md'
-    - 'Notes finals':
-        - 'Bibliografia': 'crb/notes/bibliografia.md'
-        - 'Crèdits': 'crb/notes/credits.md'
 - Curs de Qualificació AT/AA:
     - 'Sobre el manual': 'cqataa/index.md'
     - 'Introducció': 
