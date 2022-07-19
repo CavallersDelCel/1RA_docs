@@ -23,6 +23,10 @@ Un cop fet això, clica sobre `Unit` i s'obrirà la pantalla següent.
 
 Has de copiar el número que hi ha destacat en vermell. Després has d'anar [aquí](http://cavallersdelcel.cat/forums/threads/id-jugador-url-squad-de-larma-3.425/) i deixar un missatge amb aquest.
 
-Més endavant se't assignarà un enllaç que hauràs d'enganxar al camp `SQUAD XML`. Per ara, no et preocupis per això. Pots passar al següent pas.
+Seguidament has d'introduïr la següent URL al camp `SQUAD XML`:
+
+http://www.cavallersdelcel.cat/magatzem/ArmA/squadcc/cc_elteunick.xml
+
+Substituïnt "elteunick" pel sobrenom que has triat en minúscules tal i com s'explica a l'enllaç del forum.
 
 [Següent pas >](http://arma.cavallersdelcel.cat/gn/pas6)

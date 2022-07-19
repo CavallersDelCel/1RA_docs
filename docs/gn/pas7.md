@@ -15,10 +15,10 @@ Per poder descarregar els mods cal que instal·lis l'aplicació ArmA3Sync. Aques
 
 Un dels seus principals atractius, és que compara els fitxers dels teu ordinador amb els fitxers oficials del servidor. Si no coincideixen, només descarrega els fitxers que son diferents.
 
-* Podeu descarregar l'Arma3Sync a través d'[aquest enllaç](http://arma.cavallersdelcel.cat/arma3sync/arma3sync-installer.exe).
+* Podeu descarregar l'última versió de l'Arma3Sync a través d'[aquest enllaç](http://hosted.anrop.se/arma3sync.exe).
 * *Requereix [Java](http://www.java.com/en/download) per funcionar.*
 
-Instal·lat el programa, quan l'executis és possible que et pregunti on tens instal·lat l'ArmA 3. Li has d'indicar la carpeta arrel de l'Arma 3, sovint es troba dintre de la carpeta Steam `...\Steam\SteamApps\common\Arma 3`. Si has de seleccionar l'executable del simulador, assegura't de seleccionar el de 64 bits, es a dir `arma3_x64.exe`.
+Un cop instal·lat el programa, quan l'executis és possible que et pregunti on tens instal·lat l'ArmA 3. Li has d'indicar la carpeta arrel de l'Arma 3, sovint es troba dintre de la carpeta Steam `...\Steam\SteamApps\common\Arma 3`. Si has de seleccionar l'executable del simulador, assegura't de seleccionar el de 64 bits, es a dir `arma3_x64.exe`.
 
 ## Configuració ArmA3Sync
 
@@ -90,13 +90,17 @@ S'obrirà una finestra com la següent. Marca totes les caselles i clica `Ok`.
 
 ![image](_imatges/modsets2.png){: .center}
 
-Fes clic dret al requadre de la dreta i crea un nou grup que es digui `Global Mobilization`.
+Fes clic dret al requadre de la dreta i crea tres nous grups que es diguin `GM`, `PF` i `WS`.
 
 ![image](_imatges/modsets3.png){: .center}
 
-Seguidament fes clic a la pestanya `DLC` (a mà dreta) i arrossega `GM` dins la carpeta que acabes de crear.
+Seguidament fes clic a la pestanya `DLC` (requadre de l'esquerra) i arrossega `GM` dins el grup `GM` i `vn` dins el grup `PF`.
 
 ![image](_imatges/modsets4.png){: .center}
+
+Fes el mateix amb el `WS`:
+
+![image](_imatges/ws.png){: .center}
 
 Ja gairebé ho tens!
 

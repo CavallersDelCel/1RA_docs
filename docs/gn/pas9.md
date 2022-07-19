@@ -12,8 +12,8 @@ Un cop creguis que ho tens tot ben clar, has de superar la prova pràctica, en l
 
 Les proves pràctiques es fan tots els **Dimecres a les 21.30h**, has de connectar-te 15 minuts abans al TeamSpeak 3 i esperar a que un instructor es faci càrrec de tu. Recorda comprovar que el plugin de l'ACRE2 està funcionant correctament i que tens tots els mods correctament descarregats i configurats.
 
-Un cop superat el C.I.B (que te una duració aproximada de mitja hora), se't permetrà assistir a la missió posterior que sol durar 1 hora (normalment acaba a les 23.30h), on també s'avaluarà la teva resposta inicial. En cas que no superis la prova, l'instructor t'ho farà saber i et recomanarà que et preparis millor per a la següent.
+Un cop superat el C.I.B (que te una duració aproximada de mitja hora), se't permetrà assistir a la missió posterior que sol durar 1 hora (normalment acaba a les 23.30h), on també s'avaluarà la teva resposta inicial. En cas que no superis la prova, l'instructor t'ho farà saber i et recomanarà que et preparis millor per a la següent. No et preocupis ja que practicament tothom supera aquesta fase sense cap problema.
 
-Recorda ser respectuós i mantenir la disciplina en tot moment, un recluta que creu que ja ho sap tot o que no respecta la cadena de comandament, no te cap futur al 1RA. Per contra un recluta que escolta, mostra interès i ganes d'aprendre, segurament superarà el C.I.B a la primera.
+Tanmateix recorda ser respectuós i mantenir la disciplina en tot moment, un recluta que creu que ja ho sap tot o que no respecta la cadena de comandament, no te cap futur al 1RA. Per contra un recluta que escolta, mostra interès i ganes d'aprendre, segurament superarà el C.I.B a la primera.
 
 [Següent pas >](http://arma.cavallersdelcel.cat/gn/pas10)
