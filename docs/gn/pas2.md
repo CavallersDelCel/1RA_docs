@@ -1,10 +1,12 @@
-# Pas 2: Fòrums
+# Pas 2: Discord
 
-La comunitat disposa d'uns potents fòrums on pengem tota la informació sobre missions, cursos, documentació, etc.
+Per a les comunicacions diàries i habituals utilitzem [Discord](https://discordapp.com/), que es un xat semblant a una barreja entre Whatsapp i Skype. El pots instal·lar al PC i al mòbil i també disposa de versió de navegador.
 
-1. [Registra't als nostres fòrums](http://www.cavallersdelcel.cat/forums)
-2. [Presenta't a la comunitat sencera](http://cavallersdelcel.cat/forums/forums/%EF%BB%BFallistament.5/)
-3. [Presenta't al grup d'ArmA 3](http://cavallersdelcel.cat/forums/forums/allistament.36/)
+El nostre canal de Discord: [https://discord.gg/4RGJdTv](https://discord.gg/4RGJdTv)
+
+Es important que abans de continuar, et connectis al canal de Discord i et presentis.
+
+Un instructor del grup es posarà en contacte amb tu per acompanyar-te amb tot el procés.
 
 Ja ho has fet? Seguim doncs.
 

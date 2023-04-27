@@ -1,7 +1,32 @@
-# Pas 4: Funcionament i normativa
+# Pas 4: Perfil
 
-Abans de començar, és important que coneguis [com funciona el grup](http://cavallersdelcel.cat/forums/threads/1er-regiment-amfibi-milsim-presentaci%C3%B3-i-funcionament.5934/). És important que tinguis present quins membres formen part del staff i quins  s'encarreguen de les diferents seccions.
+Obre l'ArmA 3.
 
-D'altra banda, abans de participar a les nostres missions és imprescindible que llegeixis la nostra [normativa de convivència](http://www.cavallersdelcel.cat/forums/threads/normes-de-conviv%C3%A8ncia-b%C3%A0sica-de-les-missions-internes.5086/).
+Dins el menú principal del simulador, ves al botó de perfil que hi ha a dalt a la
+dreta (és la icona d’un cap).
+
+![image](_imatges/perfil1.png){: .center}
+
+Selecciona el teu perfil i s'obrirà una finestra com la següent.
+
+![image](_imatges/perfil2.png){: .center}
+
+Al perfil per defecte no pots canviar-li el nom, així que hauràs de crear un de nou i posar-li el `CC_` davant, com en la imatge anterior.
+
+!!! danger "Important"
+
+	No li posis ni ulleres ni maquillatge, això ho podràs fer a cada missió.
+
+Un cop fet això, clica sobre `Unit` i s'obrirà la pantalla següent.
+
+![image](_imatges/perfil3.png){: .center}
+
+Has de copiar el número que hi ha destacat en vermell. Després has d'anar [aquí](http://cavallersdelcel.cat/forums/threads/id-jugador-url-squad-de-larma-3.425/) i deixar un missatge amb aquest.
+
+Seguidament has d'introduïr la següent URL al camp `SQUAD XML`:
+
+http://www.cavallersdelcel.cat/magatzem/ArmA/squadcc/cc_elteunick.xml
+
+Substituïnt "elteunick" pel sobrenom que has triat en minúscules tal i com s'explica a l'enllaç del forum.
 
 [Següent pas >](http://arma.cavallersdelcel.cat/gn/pas5)

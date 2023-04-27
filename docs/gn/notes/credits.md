@@ -7,4 +7,4 @@ Un document creat per al 1er Regiment Amfibi de la Comunitat Catalana de Simulac
 * **Autors:** Viper, Atunero, SilverArrow
 * **Correcció:** Viper, Atunero, SilverArrow
 * **Data de creació:** 18/09/2014
-* **Data de modificació:** 30/07/2019
+* **Data de modificació:** 28/04/2023

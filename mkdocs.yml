@@ -30,7 +30,7 @@ repo_url: https://github.com/CavallersDelCel/1RA_docs
 edit_uri: "https://github.com/CavallersDelCel/1RA_docs/tree/master/docs"
 
 # Copyright
-copyright: 'Copyright &copy; 2010 - 2022 Cavallers del Cel'
+copyright: 'Copyright &copy; 2010 - 2023 Cavallers del Cel'
 
 # Configuration
 theme:
@@ -111,15 +111,11 @@ nav:
 - Guia pel nous:
     - 'Benvingut': 'gn/index.md'
     - 'Pas 1: Requisits tècnics': 'gn/pas1.md'
-    - 'Pas 2: Fòrums': 'gn/pas2.md'
-    - 'Pas 3: Discord': 'gn/pas3.md'
-    - 'Pas 4: Funcionament': 'gn/pas4.md'
-    - 'Pas 5: Perfil': 'gn/pas5.md'
-    - 'Pas 6: Bootcamp': 'gn/pas6.md'
-    - 'Pas 7: Descàrrega de mods': 'gn/pas7.md'
-    - 'Pas 8: Instal·lació ACRE2': 'gn/pas8.md'
-    - 'Pas 9: CIB': 'gn/pas9.md'
-    - 'Pas 10: Primera missió': 'gn/pas10.md'
+    - 'Pas 2: Discord': 'gn/pas2.md'
+    - 'Pas 3: Funcionament': 'gn/pas3.md'
+    - 'Pas 4: Perfil': 'gn/pas4.md'
+    - 'Pas 5: Descàrrega de mods': 'gn/pas5.md'
+    - 'Pas 6: Instal·lació ACRE2': 'gn/pas6.md'
     - 'Ja ets tot un Marine': 'gn/marine.md'
     - 'Notes finals':
         - 'Crèdits': 'gn/notes/credits.md'
