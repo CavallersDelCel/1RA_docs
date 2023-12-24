@@ -6,7 +6,7 @@ El nostre canal de Discord: [https://discord.gg/4RGJdTv](https://discord.gg/4RGJ
 
 Es important que abans de continuar, et connectis al canal de Discord i et presentis.
 
-Un instructor del grup es posarà en contacte amb tu per acompanyar-te amb tot el procés.
+Un instructor del grup es posarà en contacte amb tu per acompanyar-te amb tot el procés i ajudar-te en el que necessitis.
 
 Ja ho has fet? Seguim doncs.
 

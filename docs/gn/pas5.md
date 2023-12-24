@@ -81,6 +81,10 @@ Seguidament fes clic a la pestanya `DLC` (requadre de l'esquerra) i arrossega `G
 
 ![image](_imatges/modsets4.jpg){: .center}
 
+!!! danger "Important"
+
+	Si has comprat els DLC Arma 3 S.O.G Prairie Fire i/o Arma 3 Western Sahara, hauràs de fer el mateix procés que amb el Global Mobilization (GM). Es a dir, crear dues carpetes al requadre de la dreta i moure els corresponents DLC a cada lloc (Prairie Fire apareix com a "vn" i Western Sahara apareix com a "WS"). Si per contra, has descarregat els paquets de compatibilitat, també hauràs de crear les carpetes, però enlloc de moure els DLC, hauràs de moure els paquets de compatibilitat que trobaràs dins el directori "!Workshop" del requadre de l'esquerra. Si tens dubtes amb aquest últim pas, contacta amb el teu instructor.
+
 Ja gairebé ho tens!
 
 [Següent pas >](http://arma.cavallersdelcel.cat/gn/pas6)

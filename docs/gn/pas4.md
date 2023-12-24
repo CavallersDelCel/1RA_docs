@@ -1,6 +1,6 @@
 # Pas 4: Perfil
 
-Obre l'ArmA 3.
+Obre l'ArmA 3 des de Steam sense cap mod ni DLC carregat.
 
 Dins el menú principal del simulador, ves al botó de perfil que hi ha a dalt a la
 dreta (és la icona d’un cap).

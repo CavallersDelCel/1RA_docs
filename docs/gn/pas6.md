@@ -22,4 +22,4 @@ Fixa't en l'apartat de la dreta, t'ha d'apareixer quelcom simil·lar això:
 
 Si és així, ja ho tens.
 
-[Següent pas >](http://arma.cavallersdelcel.cat/gn/marine)
+[Següent pas >](http://arma.cavallersdelcel.cat/gn/pas7)
