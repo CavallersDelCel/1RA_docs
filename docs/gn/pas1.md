@@ -1,19 +1,17 @@
 # Pas 1: Requisits tècnics
 
-Cal tenir una copia legal dels següents jocs i expansions:
+Per poder participar sense problemes a les missions del grup, cal tenir una copia legal dels següents jocs i expansions:
 
 * [ArmA 3](https://store.steampowered.com/app/107410/Arma_3/)
 * [ArmA 3 Apex](https://store.steampowered.com/app/395180/Arma_3_Apex/) (DLC)
 * [ArmA 3 Global Mobilization](https://store.steampowered.com/app/1042220/Arma_3_Creator_DLC_Global_Mobilization__Cold_War_Germany/) (DLC)
 
-També recomanem adquirir els següents DLC, pero no son necessaris per participar amb el grup:
+També recomanem adquirir els següents DLC, pero no son necessaris per participar en la majoria de missions del grup:
 
-* [ArmA 3 S.O.G Prairie Fire](https://store.steampowered.com/app/1227700/Arma_3_Creator_DLC_SOG_Prairie_Fire/) (DLC) o bé subscriu-te al [paquet de compatibilitat](https://steamcommunity.com/sharedfiles/filedetails/?id=2477276806).
-* [ArmA 3 Western Sahara](https://store.steampowered.com/app/1681170/Arma_3_Creator_DLC_Western_Sahara/) (DLC) o bé subscriu-te al [paquet de compatibilitat](https://steamcommunity.com/sharedfiles/filedetails/?id=2636962953).
+* [ArmA 3 S.O.G Prairie Fire](https://store.steampowered.com/app/1227700/Arma_3_Creator_DLC_SOG_Prairie_Fire/) (DLC).
+* [ArmA 3 Western Sahara](https://store.steampowered.com/app/1681170/Arma_3_Creator_DLC_Western_Sahara/) (DLC).
 
-Si no els compres, es necessari que et subscriguis als corresponents paquets de compatibilitat.
-
-Qualsevol altra DLC que compris o disposis, es un plus, però no es necessari.
+Qualsevol altre DLC que compris o disposis, es un plus, però no es necessari.
 
 Apart del joc i els DLC, necessitaràs també:
 

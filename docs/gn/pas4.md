@@ -1,32 +1,9 @@
-# Pas 4: Perfil
+# Pas 4: Curs d'Infanteria Bàsic (C.I.B)
 
-Obre l'ArmA 3 des de Steam sense cap mod ni DLC carregat.
+Arribats a aquest punt, contacta amb el teu instructor per tal de realitzar el curs inicial que te una duració d'entre 1 i 2 hores, depenent de l'experiència de cadascú.
 
-Dins el menú principal del simulador, ves al botó de perfil que hi ha a dalt a la
-dreta (és la icona d’un cap).
+Aquest curs es individual i serveix per introduir-te als controls i procediments bàsics per poder assistir a una missió del grup. L'instructor t'ajudarà a acabar de configurar el joc i a deixar-ho tot apunt.
 
-![image](_imatges/perfil1.png){: .center}
+Un cop finalitzada aquesta sessió se't donarà accés als canals interns del Discord i podràs apuntar-te a les missions.
 
-Selecciona el teu perfil i s'obrirà una finestra com la següent.
-
-![image](_imatges/perfil2.png){: .center}
-
-Al perfil per defecte no pots canviar-li el nom, així que hauràs de crear un de nou i posar-li el `CC_` davant, com en la imatge anterior.
-
-!!! danger "Important"
-
-	No li posis ni ulleres ni maquillatge, això ho podràs fer a cada missió.
-
-Un cop fet això, clica sobre `Unit` i s'obrirà la pantalla següent.
-
-![image](_imatges/perfil3.png){: .center}
-
-Has de copiar el número que hi ha destacat en vermell. Després has d'anar [aquí](http://cavallersdelcel.cat/forums/threads/id-jugador-url-squad-de-larma-3.425/) i deixar un missatge amb aquest.
-
-Seguidament has d'introduïr la següent URL al camp `SQUAD XML`:
-
-http://www.cavallersdelcel.cat/magatzem/ArmA/squadcc/cc_elteunick.xml
-
-Substituïnt "elteunick" pel sobrenom que has triat en minúscules tal i com s'explica a l'enllaç del forum.
-
-[Següent pas >](http://arma.cavallersdelcel.cat/gn/pas5)
+[Següent pas >](http://arma.cavallersdelcel.cat/gn/marine)

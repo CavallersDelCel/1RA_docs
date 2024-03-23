@@ -1,10 +1,6 @@
-# Pas 3: Configuració perfil
+# Pas 3: Perfil
 
-Assegura't de no tenir cap mod ni DLC marcat.
-
-Fes clic al botó `Play` per arrancar Arma 3.
-
-![image](_imatges/entrar.jpg){: .center}
+Obre l'ArmA 3 des de Steam sense cap mod ni DLC carregat.
 
 Dins el menú principal del simulador, ves al botó de perfil que hi ha a dalt a la
 dreta (és la icona d’un cap).
@@ -33,4 +29,4 @@ http://www.cavallersdelcel.cat/magatzem/ArmA/squadcc/cc_elteunick.xml
 
 Substituïnt "elteunick" pel sobrenom que has triat en minúscules tal i com s'explica a l'enllaç del forum.
 
-[Següent pas >](http://arma.cavallersdelcel.cat/gn/pas4)
+[Següent pas >](http://arma.cavallersdelcel.cat/gn/pas5)
